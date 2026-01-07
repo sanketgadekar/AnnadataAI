@@ -1,0 +1,16 @@
+{
+  "default": {
+    "N": { "low": 0, "medium": 240, "high": 480 },
+    "P": { "low": 0, "medium": 11, "high": 22 },
+    "K": { "low": 0, "medium": 110, "high": 280 },
+    "OC": { "low": 0.5, "medium": 0.75, "high": 100 },
+    "pH": { "acidic": 6.0, "alkaline": 8.5 }
+  },
+  "grade_rules": {
+    "poor_condition": {
+      "min_low_count": 2,
+      "pH_critical_low": 5.5,
+      "pH_critical_high": 8.8
+    }
+  }
+}
