@@ -23,3 +23,10 @@ git status
 git add .
 git commit -m "Describe your change"
 git push
+
+
+
+
+python src/disease_prediction/train.py
+python src/disease_prediction/evaluate.py
+python src/disease_prediction/predict.py

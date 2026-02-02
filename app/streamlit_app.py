@@ -17,7 +17,7 @@ with st.sidebar:
     st.title("AgroXpert🌾")
     st.write("Your AI-Powered Farming Assistant")
     pages = ["Home", "Crop Recommendation", "Fertilizer Recommendation", "Yield Prediction",
-             "Disease Detection", "Irrigation Scheduler", "Pest & Disease Risk",
+             "Disease Detection", "Irrigation Scheduler",
              "Soil Health Check", "About"]
     for p in pages:
         if st.button(p):
@@ -280,6 +280,74 @@ def page_yield_prediction():
         except Exception as e:
             st.error(f"Second attempt failed: {e}")
 
+# --------------------------
+# Irrigation Scheduler Page (NEW)
+# --------------------------
+def page_irrigation_scheduler():
+    st.header("🚰 Irrigation Scheduler")
+    st.write("Get a smart recommendation on whether irrigation is needed.")
+
+    # Crop options (EXACT as requested)
+    crop_options = [
+        "Barley", "Cotton", "Ground Nuts", "Maize", "Millets",
+        "Oil seeds", "Paddy", "Pulses", "Sugarcane", "Tobacco",
+        "Wheat"
+    ]
+
+    # Inputs
+    soil_moisture = st.number_input(
+        "Soil Moisture (%)", min_value=0.0, max_value=100.0, value=30.0
+    )
+    temperature = st.number_input(
+        "Temperature (°C)", min_value=0.0, value=30.0
+    )
+    humidity = st.number_input(
+        "Humidity (%)", min_value=0.0, max_value=100.0, value=50.0
+    )
+
+    rain_forecast = st.selectbox(
+        "Rain Forecast",
+        options=["no", "yes"],
+        help="Select 'yes' if rain is expected soon"
+    )
+
+    crop_type = st.selectbox(
+        "Crop Type",
+        options=crop_options
+    )
+
+    if st.button("Check Irrigation Requirement"):
+        payload = {
+            "soil_moisture": float(soil_moisture),
+            "temperature": float(temperature),
+            "humidity": float(humidity),
+            "rain_forecast": rain_forecast,
+            "crop_type": crop_type,
+        }
+
+        url = API_BASE.rstrip("/") + "/predict/irrigation"
+        st.info(f"Calling API: {url}")
+        st.code(payload, language="json")
+
+        try:
+            resp = requests.post(url, json=payload, timeout=8)
+            st.write("Response status code:", resp.status_code)
+            st.code(resp.text, language="json")
+
+            if resp.status_code == 200:
+                data = resp.json()
+                decision = data.get("irrigation_decision", "—")
+
+                if decision.lower() == "irrigate":
+                    st.success("✅ Irrigation is REQUIRED for this crop.")
+                else:
+                    st.info("💧 Irrigation is NOT required at this time.")
+
+            else:
+                st.error("API returned an error.")
+
+        except Exception as e:
+            st.error(f"Could not connect to API: {e}")
 
 # --------------------------
 # Blank pages
@@ -360,11 +428,7 @@ elif page == "Yield Prediction":
 elif page == "Disease Detection":
     blank_sanker("Disease Detection")
 elif page == "Irrigation Scheduler":
-    blank_sanker("Irrigation Scheduler")
-elif page == "Pest & Disease Risk":
-    blank_sanker("Pest & Disease Risk")
-elif page == "Soil Health Check":
-    blank_sanker("Soil Health Check")
+    page_irrigation_scheduler()
 elif page == "About":
     page_about()
 else:
