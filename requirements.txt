@@ -12,3 +12,5 @@ imbalanced-learn
 xgboost
 pydantic
 pytest
+tensorflow
+pillow

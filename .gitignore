@@ -12,3 +12,6 @@ models/
 *.joblib
 *.h5
 *.pt
+
+# disease dataset
+data/disease/
