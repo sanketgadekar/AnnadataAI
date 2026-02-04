@@ -6,6 +6,11 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 from fastapi.encoders import jsonable_encoder
 
+# 🔹 NEW IMPORTS (SOIL HEALTH ONLY)
+import joblib
+import pandas as pd
+from pathlib import Path
+
 # ============================================================
 # LOGGING SETUP
 # ============================================================
@@ -20,8 +25,12 @@ if not logger.handlers:
 logger.setLevel(logging.INFO)
 
 # ============================================================
+# BASE DIR (AnnadataAI root)
+# ============================================================
+BASE_DIR = Path(__file__).resolve().parents[1]
+
+# ============================================================
 # CROP ENCODING MAP (FOR IRRIGATION ONLY)
-# Must match LabelEncoder order used during training
 # ============================================================
 CROP_ENCODING_MAP = {
     "Barley": 0,
@@ -88,7 +97,7 @@ def get_yield_model():
         raise RuntimeError("Yield model load failed") from e
 
 # ============================================================
-# IRRIGATION SCHEDULER (NEW MODEL)
+# IRRIGATION SCHEDULER (UNCHANGED)
 # ============================================================
 try:
     from src.irrigation_scheduler.scheduler import irrigation_scheduler
@@ -98,6 +107,23 @@ except Exception:
     irrigation_scheduler = None
     _irrigation_available = False
     logger.warning("Irrigation scheduler not available", exc_info=True)
+
+# ============================================================
+# 🔹 SOIL HEALTH MODEL (NEW – ADD ONLY)
+# ============================================================
+try:
+    SOIL_HEALTH_MODEL_PATH = (
+        BASE_DIR / "models" / "soil_health" / "soil_health_model.pkl"
+    )
+    soil_health_model = joblib.load(SOIL_HEALTH_MODEL_PATH)
+    _soil_health_available = True
+    logger.info("Soil health model loaded successfully.")
+except Exception:
+    soil_health_model = None
+    _soil_health_available = False
+    logger.warning("Soil health model not available", exc_info=True)
+
+SOIL_HEALTH_FEATURES = ["N", "P", "K", "ph"]
 
 # ============================================================
 # SCHEMAS
@@ -133,13 +159,19 @@ class YieldInput(BaseModel):
     pesticides_tonnes: Optional[float] = 5.4
     avg_temp: Optional[float] = 24.5
 
-# 🔹 IRRIGATION INPUT (HUMAN-FRIENDLY)
 class IrrigationInput(BaseModel):
     soil_moisture: float
     temperature: float
     humidity: float
-    rain_forecast: str = Field(..., example="no", description="yes or no")
+    rain_forecast: str = Field(..., example="no")
     crop_type: str = Field(..., example="Maize")
+
+# 🔹 SOIL HEALTH INPUT (NEW)
+class SoilHealthInput(BaseModel):
+    N: float
+    P: float
+    K: float
+    ph: float
 
 # ============================================================
 # FASTAPI APP
@@ -155,6 +187,7 @@ def home():
             "/predict/fertilizer",
             "/predict/yield",
             "/predict/irrigation",
+            "/predict/soil-health",
             "/health",
         ],
     }
@@ -169,6 +202,7 @@ def health():
             "yield_imported": _yield_imported,
             "yield_loaded": _yield_available,
             "irrigation": _irrigation_available,
+            "soil_health": _soil_health_available,
         },
     }
 
@@ -219,7 +253,7 @@ def predict_yield(data: YieldInput):
         raise HTTPException(500, "Internal server error")
 
 # ============================================================
-# IRRIGATION SCHEDULER (NEW, SIMPLE, CLEAN)
+# IRRIGATION SCHEDULER (UNCHANGED)
 # ============================================================
 @app.post("/predict/irrigation")
 def predict_irrigation(data: IrrigationInput):
@@ -255,4 +289,35 @@ def predict_irrigation(data: IrrigationInput):
 
     except Exception:
         logger.exception("Irrigation prediction error")
+        raise HTTPException(500, "Internal server error")
+
+# ============================================================
+# 🔹 SOIL HEALTH PREDICTION (NEW)
+# ============================================================
+@app.post("/predict/soil-health")
+def predict_soil_health(data: SoilHealthInput):
+    if not _soil_health_available:
+        raise HTTPException(503, "Soil health service unavailable")
+
+    try:
+        df = pd.DataFrame(
+            [[data.N, data.P, data.K, data.ph]],
+            columns=SOIL_HEALTH_FEATURES
+        )
+
+        prediction = soil_health_model.predict(df)[0]
+        probabilities = soil_health_model.predict_proba(df)[0]
+
+        class_probs = dict(
+            zip(soil_health_model.classes_, probabilities)
+        )
+
+        return jsonable_encoder({
+            "soil_health_class": prediction,
+            "confidence": round(max(probabilities), 3),
+            "class_probabilities": class_probs
+        })
+
+    except Exception:
+        logger.exception("Soil health prediction error")
         raise HTTPException(500, "Internal server error")
