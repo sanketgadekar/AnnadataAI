@@ -1,0 +1,2190 @@
+N,P,K,ph,soil_health_score,deficiency_report,soil_health_class
+90,42,43,6.502985292000001,100.0,No major deficiency,Healthy
+85,58,41,7.038096361,100.0,No major deficiency,Healthy
+60,55,44,7.840207144,90.0,ph excess,Healthy
+74,35,40,6.980400905,90.0,P deficient,Healthy
+78,42,42,7.628472891,90.0,ph excess,Healthy
+69,37,42,7.073453503,90.0,P deficient,Healthy
+69,55,38,5.70080568,90.0,K deficient,Healthy
+94,53,40,5.718627177999999,100.0,No major deficiency,Healthy
+89,54,38,6.685346424,90.0,K deficient,Healthy
+68,58,38,6.336253525,90.0,K deficient,Healthy
+91,53,40,5.386167788,90.0,ph deficient,Healthy
+90,46,42,7.50283396,90.0,ph excess,Healthy
+78,58,44,5.108681786,90.0,ph deficient,Healthy
+93,56,36,6.98435366,90.0,K deficient,Healthy
+94,50,37,6.94801983,90.0,K deficient,Healthy
+60,48,39,7.042299068999999,90.0,K deficient,Healthy
+85,38,41,6.2490506560000005,90.0,P deficient,Healthy
+91,35,39,6.970859754,80.0,"P deficient, K deficient",Healthy
+77,38,36,5.953933276,80.0,"P deficient, K deficient",Healthy
+88,35,40,5.85393208,90.0,P deficient,Healthy
+89,45,36,6.442475375,90.0,K deficient,Healthy
+76,40,43,5.070175667,90.0,ph deficient,Healthy
+67,59,41,6.012632591,100.0,No major deficiency,Healthy
+83,41,43,6.254028451,100.0,No major deficiency,Healthy
+98,47,37,7.375482851,90.0,K deficient,Healthy
+66,53,41,7.778915154,90.0,ph excess,Healthy
+97,59,43,6.2865001760000006,100.0,No major deficiency,Healthy
+97,50,41,7.070959995,100.0,No major deficiency,Healthy
+60,49,44,6.244841491,100.0,No major deficiency,Healthy
+84,51,35,6.043304899,90.0,K deficient,Healthy
+73,57,41,5.824709117,100.0,No major deficiency,Healthy
+92,35,40,6.3573893660000005,90.0,P deficient,Healthy
+85,37,39,6.364134967999999,80.0,"P deficient, K deficient",Healthy
+98,53,38,5.01450727,80.0,"K deficient, ph deficient",Healthy
+88,54,44,6.149410611,100.0,No major deficiency,Healthy
+95,55,42,5.950660556,100.0,No major deficiency,Healthy
+99,57,35,5.960370061,90.0,K deficient,Healthy
+95,39,36,5.561398642,80.0,"P deficient, K deficient",Healthy
+60,43,44,7.416245107000001,100.0,No major deficiency,Healthy
+63,44,41,5.583370042,100.0,No major deficiency,Healthy
+62,42,36,6.430010215,90.0,K deficient,Healthy
+64,45,43,5.534878156,100.0,No major deficiency,Healthy
+83,60,36,6.903985986,90.0,K deficient,Healthy
+82,40,40,6.271478837999999,100.0,No major deficiency,Healthy
+85,52,45,7.224285503,100.0,No major deficiency,Healthy
+91,35,38,6.13428721,80.0,"P deficient, K deficient",Healthy
+76,49,42,5.206373153,90.0,ph deficient,Healthy
+74,39,38,7.782051312999999,70.0,"P deficient, K deficient, ph excess",Moderate
+79,43,39,7.062779015,90.0,K deficient,Healthy
+88,55,45,7.730367824,90.0,ph excess,Healthy
+60,36,43,5.286203711000001,80.0,"P deficient, ph deficient",Healthy
+76,60,39,6.766240045,90.0,K deficient,Healthy
+93,56,42,7.382762603,100.0,No major deficiency,Healthy
+65,60,43,5.658169482000001,100.0,No major deficiency,Healthy
+95,52,36,5.543360237999999,90.0,K deficient,Healthy
+75,38,39,6.215109715,80.0,"P deficient, K deficient",Healthy
+74,54,38,7.120272972,90.0,K deficient,Healthy
+91,36,45,5.950647577000001,90.0,P deficient,Healthy
+71,46,40,7.236705436,100.0,No major deficiency,Healthy
+99,55,35,6.501697816,90.0,K deficient,Healthy
+72,40,38,7.592490617,80.0,"K deficient, ph excess",Healthy
+83,58,45,5.875345751,100.0,No major deficiency,Healthy
+93,58,38,6.932400225,90.0,K deficient,Healthy
+70,36,42,6.9462098810000015,90.0,P deficient,Healthy
+76,47,42,5.739175027000001,100.0,No major deficiency,Healthy
+99,41,36,6.738652179,90.0,K deficient,Healthy
+99,54,37,5.5948196260000005,90.0,K deficient,Healthy
+86,59,35,6.946636369,90.0,K deficient,Healthy
+69,46,41,5.012139669,90.0,ph deficient,Healthy
+91,56,37,6.363472207999999,90.0,K deficient,Healthy
+61,52,41,6.880431223,100.0,No major deficiency,Healthy
+67,45,38,7.300410836,90.0,K deficient,Healthy
+79,42,37,6.587918707999999,90.0,K deficient,Healthy
+78,43,42,7.283736617000001,100.0,No major deficiency,Healthy
+75,54,36,7.023936392,90.0,K deficient,Healthy
+97,36,45,6.939083505,90.0,P deficient,Healthy
+67,47,44,7.868474653,90.0,ph excess,Healthy
+73,35,38,5.005306977,70.0,"P deficient, K deficient, ph deficient",Moderate
+77,36,37,6.136131869,80.0,"P deficient, K deficient",Healthy
+81,41,38,7.5240800760000015,80.0,"K deficient, ph excess",Healthy
+68,57,43,5.706943251,100.0,No major deficiency,Healthy
+72,45,35,5.758506323,90.0,K deficient,Healthy
+61,53,43,6.349606327,100.0,No major deficiency,Healthy
+67,43,39,5.9999690260000005,90.0,K deficient,Healthy
+67,58,39,5.453592032,80.0,"K deficient, ph deficient",Healthy
+66,60,38,6.372576327000001,90.0,K deficient,Healthy
+82,43,38,5.105588355,80.0,"K deficient, ph deficient",Healthy
+84,50,44,5.9353444060000005,100.0,No major deficiency,Healthy
+81,53,42,5.17782304,90.0,ph deficient,Healthy
+91,50,40,6.462391607000001,100.0,No major deficiency,Healthy
+93,53,38,7.069172227,90.0,K deficient,Healthy
+90,44,38,7.473134377,90.0,K deficient,Healthy
+81,45,35,6.158376967000001,90.0,K deficient,Healthy
+78,40,38,7.549873681,80.0,"K deficient, ph excess",Healthy
+60,51,36,6.028321557999999,90.0,K deficient,Healthy
+88,46,42,6.604993475,100.0,No major deficiency,Healthy
+93,47,37,6.500343222000001,90.0,K deficient,Healthy
+60,55,45,5.935745417000001,100.0,No major deficiency,Healthy
+78,35,44,7.072655622,90.0,P deficient,Healthy
+65,37,40,5.333322606,80.0,"P deficient, ph deficient",Healthy
+71,54,16,5.7499144210000015,80.0,K deficient,Healthy
+61,44,17,6.931756557999999,80.0,K deficient,Healthy
+80,43,16,6.657964753,80.0,K deficient,Healthy
+73,58,21,6.596060648,80.0,K deficient,Healthy
+61,38,20,5.970458434,70.0,"P deficient, K deficient",Moderate
+68,41,16,6.158830619,80.0,K deficient,Healthy
+93,41,17,6.047906679,80.0,K deficient,Healthy
+89,60,19,5.913664501,80.0,K deficient,Healthy
+76,44,17,5.855442401,80.0,K deficient,Healthy
+67,60,25,5.750254943,80.0,K deficient,Healthy
+70,44,19,5.852607099,80.0,K deficient,Healthy
+90,49,21,6.4725232870000005,80.0,K deficient,Healthy
+62,52,16,6.9670577620000005,80.0,K deficient,Healthy
+92,44,16,6.082973754,80.0,K deficient,Healthy
+66,54,21,5.919045532,80.0,K deficient,Healthy
+63,58,22,6.204747652999999,80.0,K deficient,Healthy
+70,47,17,6.600827017,80.0,K deficient,Healthy
+61,41,17,6.021902237000001,80.0,K deficient,Healthy
+66,53,19,6.033550195,80.0,K deficient,Healthy
+74,55,19,6.28886807,80.0,K deficient,Healthy
+77,57,21,6.550563822999999,80.0,K deficient,Healthy
+99,50,15,5.573286437,80.0,K deficient,Healthy
+74,56,22,6.829199275,80.0,K deficient,Healthy
+83,45,21,5.716222912,80.0,K deficient,Healthy
+100,48,16,5.54990242,80.0,K deficient,Healthy
+79,51,16,6.586244581,80.0,K deficient,Healthy
+94,39,18,5.893093135,70.0,"P deficient, K deficient",Moderate
+75,49,15,5.918263801,80.0,K deficient,Healthy
+78,48,22,5.588650585,80.0,K deficient,Healthy
+87,54,20,6.576418207000001,80.0,K deficient,Healthy
+87,35,25,6.178056304,70.0,"P deficient, K deficient",Moderate
+63,43,19,6.641906353,80.0,K deficient,Healthy
+84,57,25,6.489040367,80.0,K deficient,Healthy
+64,35,23,5.680361037999999,70.0,"P deficient, K deficient",Moderate
+60,46,22,6.625404347999999,80.0,K deficient,Healthy
+98,44,21,6.524478032,80.0,K deficient,Healthy
+75,56,18,5.696205468,80.0,K deficient,Healthy
+86,55,21,6.803931519,80.0,K deficient,Healthy
+98,35,18,6.252797547999999,70.0,"P deficient, K deficient",Moderate
+76,57,18,6.092725883,80.0,K deficient,Healthy
+99,56,17,6.234330356,80.0,K deficient,Healthy
+60,44,23,5.722579819,80.0,K deficient,Healthy
+74,48,17,6.430616465,80.0,K deficient,Healthy
+89,60,17,5.983952675,80.0,K deficient,Healthy
+69,51,23,6.80163854,80.0,K deficient,Healthy
+96,46,22,6.499936446,80.0,K deficient,Healthy
+61,60,15,6.265564338,80.0,K deficient,Healthy
+74,58,18,6.727303282,80.0,K deficient,Healthy
+74,43,23,6.325235159,80.0,K deficient,Healthy
+63,43,17,6.807487794,80.0,K deficient,Healthy
+99,36,20,6.671085817000001,70.0,"P deficient, K deficient",Moderate
+77,36,23,6.648725327,70.0,"P deficient, K deficient",Moderate
+87,60,23,6.439071996,80.0,K deficient,Healthy
+60,38,17,6.474476516,70.0,"P deficient, K deficient",Moderate
+94,54,17,5.871647806,80.0,K deficient,Healthy
+95,38,22,5.730617109,70.0,"P deficient, K deficient",Moderate
+84,44,21,5.850439831,80.0,K deficient,Healthy
+77,58,19,5.791649933,80.0,K deficient,Healthy
+66,44,20,6.740000687999999,80.0,K deficient,Healthy
+63,35,16,6.272417541,70.0,"P deficient, K deficient",Moderate
+79,45,20,5.715208817000001,80.0,K deficient,Healthy
+72,60,25,5.773454729,80.0,K deficient,Healthy
+67,51,24,5.584171461,80.0,K deficient,Healthy
+86,36,24,5.787268394,70.0,"P deficient, K deficient",Moderate
+76,48,18,5.77597783,80.0,K deficient,Healthy
+75,53,18,6.864793607,80.0,K deficient,Healthy
+81,45,23,6.192360002999999,80.0,K deficient,Healthy
+73,45,21,6.636803222999999,80.0,K deficient,Healthy
+71,35,24,5.826426917,70.0,"P deficient, K deficient",Moderate
+96,54,22,6.960358276,80.0,K deficient,Healthy
+99,39,18,6.11275104,70.0,"P deficient, K deficient",Moderate
+62,48,20,6.708446922,80.0,K deficient,Healthy
+86,37,16,5.561510732,70.0,"P deficient, K deficient",Moderate
+94,50,19,5.873242491,80.0,K deficient,Healthy
+76,39,24,6.995843776,70.0,"P deficient, K deficient",Moderate
+77,52,17,5.714799723,80.0,K deficient,Healthy
+74,39,23,6.78073637,70.0,"P deficient, K deficient",Moderate
+81,49,20,5.513697923,80.0,K deficient,Healthy
+63,42,21,5.798423907999999,80.0,K deficient,Healthy
+99,38,21,6.352471866,70.0,"P deficient, K deficient",Moderate
+90,52,25,6.822586546,80.0,K deficient,Healthy
+68,40,19,6.655426355,80.0,K deficient,Healthy
+60,57,24,6.1212940410000005,80.0,K deficient,Healthy
+71,52,18,5.790770202999999,80.0,K deficient,Healthy
+61,59,17,6.47444292,80.0,K deficient,Healthy
+88,38,15,6.455116637000001,70.0,"P deficient, K deficient",Moderate
+65,60,22,6.6069840860000015,80.0,K deficient,Healthy
+78,37,22,6.330554389,70.0,"P deficient, K deficient",Moderate
+78,58,15,6.5286312660000005,80.0,K deficient,Healthy
+92,60,23,5.721667141,80.0,K deficient,Healthy
+79,59,17,6.644205485,80.0,K deficient,Healthy
+91,55,15,6.376651091,80.0,K deficient,Healthy
+76,51,18,6.247040422,80.0,K deficient,Healthy
+87,48,25,6.656730007999999,80.0,K deficient,Healthy
+71,60,22,6.2048017,80.0,K deficient,Healthy
+90,57,24,6.158860284,80.0,K deficient,Healthy
+67,35,22,6.385684213999999,70.0,"P deficient, K deficient",Moderate
+60,54,19,6.417820493,80.0,K deficient,Healthy
+83,58,23,6.381201909,80.0,K deficient,Healthy
+83,57,19,6.877869005,80.0,K deficient,Healthy
+40,72,77,7.485996067,90.0,N deficient,Healthy
+23,72,84,6.920251378,70.0,"N deficient, K excess",Moderate
+39,58,85,5.9969320370000005,70.0,"N deficient, K excess",Moderate
+22,72,85,6.391173589,70.0,"N deficient, K excess",Moderate
+36,67,77,7.152811172000001,80.0,N deficient,Healthy
+32,73,81,5.988992796000002,70.0,"N deficient, K excess",Moderate
+58,70,84,6.231049027999999,90.0,K excess,Healthy
+59,70,84,7.550808267000001,80.0,"K excess, ph excess",Healthy
+42,62,75,7.010570541,90.0,N deficient,Healthy
+28,74,81,8.753795334,60.0,"N deficient, K excess, ph excess",Moderate
+58,66,79,8.718192847000001,90.0,ph excess,Healthy
+43,66,79,7.976607593,80.0,"N deficient, ph excess",Healthy
+58,63,81,6.515499548999999,90.0,K excess,Healthy
+23,62,85,8.490127142,60.0,"N deficient, K excess, ph excess",Moderate
+27,62,77,6.576415562,80.0,N deficient,Healthy
+28,72,84,6.481783042999999,70.0,"N deficient, K excess",Moderate
+50,56,76,7.966605025,90.0,ph excess,Healthy
+39,71,84,8.140825437,60.0,"N deficient, K excess, ph excess",Moderate
+25,78,76,7.228963452,80.0,N deficient,Healthy
+31,70,77,6.492546046,80.0,N deficient,Healthy
+26,80,83,7.528599957000001,60.0,"N deficient, K excess, ph excess",Moderate
+25,68,77,7.701446446,70.0,"N deficient, ph excess",Moderate
+31,78,76,8.519975748,70.0,"N deficient, ph excess",Moderate
+60,68,83,6.620900869,90.0,K excess,Healthy
+59,62,83,8.104396057999999,80.0,"K excess, ph excess",Healthy
+22,67,78,6.204090835,80.0,N deficient,Healthy
+36,65,80,6.051091339,80.0,N deficient,Healthy
+59,60,84,7.690962337999999,80.0,"K excess, ph excess",Healthy
+54,77,85,7.8292111439999985,80.0,"K excess, ph excess",Healthy
+43,68,81,6.761599706,80.0,"N deficient, K excess",Healthy
+28,76,82,6.654425315,70.0,"N deficient, K excess",Moderate
+42,79,85,6.129533877,80.0,"N deficient, K excess",Healthy
+32,60,83,8.829273328,60.0,"N deficient, K excess, ph excess",Moderate
+22,78,76,8.621662982,70.0,"N deficient, ph excess",Moderate
+31,79,75,8.204862075,70.0,"N deficient, ph excess",Moderate
+28,58,81,6.18042747,70.0,"N deficient, K excess",Moderate
+57,58,77,7.978996755,90.0,ph excess,Healthy
+49,55,78,7.863113671,80.0,"N deficient, ph excess",Healthy
+46,76,77,6.967843048,90.0,N deficient,Healthy
+54,61,77,6.206582192999999,100.0,No major deficiency,Healthy
+38,60,76,8.868741443,70.0,"N deficient, ph excess",Moderate
+59,55,79,8.766128654,90.0,ph excess,Healthy
+36,76,75,8.736337905,70.0,"N deficient, ph excess",Moderate
+57,68,81,8.081095263,80.0,"K excess, ph excess",Healthy
+35,66,81,6.138243973,70.0,"N deficient, K excess",Moderate
+35,64,78,7.496645259,80.0,N deficient,Healthy
+52,60,79,8.380185271,90.0,ph excess,Healthy
+27,76,83,6.289614016,70.0,"N deficient, K excess",Moderate
+57,60,84,6.586777189,90.0,K excess,Healthy
+52,68,78,6.89655198,100.0,No major deficiency,Healthy
+43,79,79,7.8067476560000015,80.0,"N deficient, ph excess",Healthy
+44,74,85,7.150681303,80.0,"N deficient, K excess",Healthy
+24,55,78,6.64919573,80.0,N deficient,Healthy
+29,77,75,7.778591617999999,70.0,"N deficient, ph excess",Moderate
+20,60,78,6.358740355,80.0,N deficient,Healthy
+56,67,78,8.255450758,90.0,ph excess,Healthy
+37,66,85,6.456148474,70.0,"N deficient, K excess",Moderate
+49,71,76,6.613072145,90.0,N deficient,Healthy
+59,69,80,8.165359297,90.0,ph excess,Healthy
+20,79,77,7.64867466,70.0,"N deficient, ph excess",Moderate
+24,56,85,6.545888558,70.0,"N deficient, K excess",Moderate
+51,72,75,7.1042247970000005,100.0,No major deficiency,Healthy
+57,73,85,7.358099622,90.0,K excess,Healthy
+22,64,82,6.4740245000000005,70.0,"N deficient, K excess",Moderate
+52,73,79,7.840339388999999,90.0,ph excess,Healthy
+29,75,75,7.064790365,80.0,N deficient,Healthy
+44,59,78,7.599033472,80.0,"N deficient, ph excess",Healthy
+41,69,82,6.715587232000001,80.0,"N deficient, K excess",Healthy
+52,56,85,6.81712422,90.0,K excess,Healthy
+34,76,80,7.985417393,70.0,"N deficient, ph excess",Moderate
+42,74,83,7.545258424,70.0,"N deficient, K excess, ph excess",Moderate
+34,71,79,7.728998197,70.0,"N deficient, ph excess",Moderate
+27,73,79,7.354973451,80.0,N deficient,Healthy
+30,70,79,7.313122235,80.0,N deficient,Healthy
+57,57,75,7.785039076,90.0,ph excess,Healthy
+27,79,82,6.307004922999999,70.0,"N deficient, K excess",Moderate
+32,71,85,6.4039823160000005,70.0,"N deficient, K excess",Moderate
+31,76,82,7.599279991,60.0,"N deficient, K excess, ph excess",Moderate
+33,75,84,7.217018459,70.0,"N deficient, K excess",Moderate
+47,80,77,7.561108006,80.0,"N deficient, ph excess",Healthy
+54,62,80,7.489545074,100.0,No major deficiency,Healthy
+47,79,78,6.609696734,90.0,N deficient,Healthy
+35,57,83,7.476800943,70.0,"N deficient, K excess",Moderate
+53,73,77,7.325451279,100.0,No major deficiency,Healthy
+45,61,78,6.489389282,90.0,N deficient,Healthy
+37,78,79,7.786366322,70.0,"N deficient, ph excess",Moderate
+30,75,81,6.4084378860000015,70.0,"N deficient, K excess",Moderate
+37,55,82,8.423873703,60.0,"N deficient, K excess, ph excess",Moderate
+53,65,76,8.719960893,90.0,ph excess,Healthy
+22,60,85,7.811997977000001,60.0,"N deficient, K excess, ph excess",Moderate
+60,61,78,6.317153205,100.0,No major deficiency,Healthy
+42,67,77,7.114405288,90.0,N deficient,Healthy
+39,76,76,8.135900726000001,70.0,"N deficient, ph excess",Moderate
+35,63,76,7.714153037999999,70.0,"N deficient, ph excess",Moderate
+30,65,82,7.103798069,70.0,"N deficient, K excess",Moderate
+57,56,78,8.861479668,90.0,ph excess,Healthy
+48,65,78,7.861128148,80.0,"N deficient, ph excess",Healthy
+36,56,83,7.4526709,70.0,"N deficient, K excess",Moderate
+40,58,75,7.168096055,90.0,N deficient,Healthy
+49,69,82,7.26311855,80.0,"N deficient, K excess",Healthy
+13,60,25,5.68597166,60.0,"N deficient, K deficient",Moderate
+25,70,16,5.759237003,60.0,"N deficient, K deficient",Moderate
+31,55,22,5.873171894,60.0,"N deficient, K deficient",Moderate
+40,64,16,5.926676985,70.0,"N deficient, K deficient",Moderate
+2,61,20,5.95561668,60.0,"N deficient, K deficient",Moderate
+26,65,22,5.9499490810000015,60.0,"N deficient, K deficient",Moderate
+17,57,21,5.789214288999999,60.0,"N deficient, K deficient",Moderate
+26,80,18,5.581021521,60.0,"N deficient, K deficient",Moderate
+17,59,17,5.689858133,60.0,"N deficient, K deficient",Moderate
+27,59,22,5.794158503999999,60.0,"N deficient, K deficient",Moderate
+28,58,24,5.748190462999999,60.0,"N deficient, K deficient",Moderate
+25,57,19,5.566522896,60.0,"N deficient, K deficient",Moderate
+28,80,17,5.809419584,60.0,"N deficient, K deficient",Moderate
+25,60,22,5.887263027,60.0,"N deficient, K deficient",Moderate
+12,78,23,5.99812453,60.0,"N deficient, K deficient",Moderate
+6,77,25,5.792744849,60.0,"N deficient, K deficient",Moderate
+22,79,17,5.912289889,60.0,"N deficient, K deficient",Moderate
+27,80,15,5.7883869510000014,60.0,"N deficient, K deficient",Moderate
+10,55,23,5.728233081,60.0,"N deficient, K deficient",Moderate
+23,65,20,5.833940084,60.0,"N deficient, K deficient",Moderate
+19,78,16,5.967533236,60.0,"N deficient, K deficient",Moderate
+19,65,25,5.6250964460000015,60.0,"N deficient, K deficient",Moderate
+22,70,19,5.515615023,60.0,"N deficient, K deficient",Moderate
+37,64,22,5.954665349,60.0,"N deficient, K deficient",Moderate
+11,71,17,5.74644777,60.0,"N deficient, K deficient",Moderate
+18,79,20,5.877347515,60.0,"N deficient, K deficient",Moderate
+21,63,17,5.979973965,60.0,"N deficient, K deficient",Moderate
+24,80,22,5.635993966,60.0,"N deficient, K deficient",Moderate
+34,60,22,5.635231778,60.0,"N deficient, K deficient",Moderate
+16,75,21,5.679224346,60.0,"N deficient, K deficient",Moderate
+17,77,23,5.670062975,60.0,"N deficient, K deficient",Moderate
+37,72,18,5.724242065,60.0,"N deficient, K deficient",Moderate
+40,73,20,5.811314232000001,70.0,"N deficient, K deficient",Moderate
+9,77,17,5.783425416,60.0,"N deficient, K deficient",Moderate
+1,62,23,5.607808432000001,60.0,"N deficient, K deficient",Moderate
+33,59,22,5.946999529,60.0,"N deficient, K deficient",Moderate
+23,59,19,5.852046999,60.0,"N deficient, K deficient",Moderate
+6,62,22,5.824090984,60.0,"N deficient, K deficient",Moderate
+25,63,20,5.502999119,60.0,"N deficient, K deficient",Moderate
+7,79,23,5.821649914,60.0,"N deficient, K deficient",Moderate
+8,72,17,5.711439256,60.0,"N deficient, K deficient",Moderate
+27,64,15,5.514927264,60.0,"N deficient, K deficient",Moderate
+28,66,23,5.99616119,60.0,"N deficient, K deficient",Moderate
+32,57,18,5.695422862999999,60.0,"N deficient, K deficient",Moderate
+27,56,22,5.833010957999999,60.0,"N deficient, K deficient",Moderate
+17,77,24,5.568456899,60.0,"N deficient, K deficient",Moderate
+0,65,15,5.645435626,60.0,"N deficient, K deficient",Moderate
+13,72,21,5.821194486,60.0,"N deficient, K deficient",Moderate
+34,60,23,5.659254981,60.0,"N deficient, K deficient",Moderate
+9,80,19,5.945465949,60.0,"N deficient, K deficient",Moderate
+11,72,20,5.9511774520000005,60.0,"N deficient, K deficient",Moderate
+3,67,24,5.520880013999999,60.0,"N deficient, K deficient",Moderate
+35,69,23,5.578410206,60.0,"N deficient, K deficient",Moderate
+3,77,25,5.608165195,60.0,"N deficient, K deficient",Moderate
+23,62,19,5.609435127999999,60.0,"N deficient, K deficient",Moderate
+22,71,17,5.509295379,60.0,"N deficient, K deficient",Moderate
+31,79,25,5.902033406,60.0,"N deficient, K deficient",Moderate
+34,59,18,5.744117663,60.0,"N deficient, K deficient",Moderate
+12,63,17,5.717143397,60.0,"N deficient, K deficient",Moderate
+27,56,20,5.542690119,60.0,"N deficient, K deficient",Moderate
+7,63,24,5.858617867,60.0,"N deficient, K deficient",Moderate
+24,67,22,5.618844277000001,60.0,"N deficient, K deficient",Moderate
+11,71,24,5.6066203460000015,60.0,"N deficient, K deficient",Moderate
+37,74,15,5.582178402,60.0,"N deficient, K deficient",Moderate
+25,76,24,5.56503533,60.0,"N deficient, K deficient",Moderate
+34,66,17,5.889614577000001,60.0,"N deficient, K deficient",Moderate
+20,69,15,5.934136378,60.0,"N deficient, K deficient",Moderate
+37,65,16,5.683548308,60.0,"N deficient, K deficient",Moderate
+18,74,15,5.70836603,60.0,"N deficient, K deficient",Moderate
+4,67,25,5.948164454,60.0,"N deficient, K deficient",Moderate
+37,56,25,5.774755143999999,60.0,"N deficient, K deficient",Moderate
+5,59,15,5.97229163,60.0,"N deficient, K deficient",Moderate
+11,61,21,5.532100554,60.0,"N deficient, K deficient",Moderate
+22,80,20,5.669560726,60.0,"N deficient, K deficient",Moderate
+12,61,19,5.655726817000001,60.0,"N deficient, K deficient",Moderate
+5,74,21,5.591704013999999,60.0,"N deficient, K deficient",Moderate
+27,69,22,5.932323085,60.0,"N deficient, K deficient",Moderate
+31,75,18,5.824208308999999,60.0,"N deficient, K deficient",Moderate
+36,68,20,5.86442953,60.0,"N deficient, K deficient",Moderate
+5,65,16,5.866744372,60.0,"N deficient, K deficient",Moderate
+32,79,15,5.706198621,60.0,"N deficient, K deficient",Moderate
+11,78,22,5.940546818,60.0,"N deficient, K deficient",Moderate
+0,55,22,5.916779289,60.0,"N deficient, K deficient",Moderate
+14,59,15,5.779090476,60.0,"N deficient, K deficient",Moderate
+29,68,23,5.82738029,60.0,"N deficient, K deficient",Moderate
+32,68,19,5.514234138,60.0,"N deficient, K deficient",Moderate
+17,64,17,5.662699104,60.0,"N deficient, K deficient",Moderate
+13,69,19,5.86390397,60.0,"N deficient, K deficient",Moderate
+14,67,22,5.624690247999999,60.0,"N deficient, K deficient",Moderate
+9,69,20,5.591560999,60.0,"N deficient, K deficient",Moderate
+20,73,22,5.976312537999999,60.0,"N deficient, K deficient",Moderate
+40,78,20,5.669236258,70.0,"N deficient, K deficient",Moderate
+27,72,23,5.961934481,60.0,"N deficient, K deficient",Moderate
+14,67,15,5.690065688,60.0,"N deficient, K deficient",Moderate
+7,56,18,5.698371311,60.0,"N deficient, K deficient",Moderate
+27,65,18,5.59503163,60.0,"N deficient, K deficient",Moderate
+30,63,16,5.5259045260000015,60.0,"N deficient, K deficient",Moderate
+37,70,25,5.819403771,60.0,"N deficient, K deficient",Moderate
+27,63,19,5.562201934,60.0,"N deficient, K deficient",Moderate
+22,60,24,5.630664753,60.0,"N deficient, K deficient",Moderate
+3,72,24,6.03160778,60.0,"N deficient, K deficient",Moderate
+40,59,23,5.269084669,60.0,"N deficient, K deficient, ph deficient",Moderate
+33,73,23,5.985792703,60.0,"N deficient, K deficient",Moderate
+27,57,24,6.09186275,60.0,"N deficient, K deficient",Moderate
+10,79,18,5.624731337999999,60.0,"N deficient, K deficient",Moderate
+30,75,25,6.446091759,60.0,"N deficient, K deficient",Moderate
+40,70,20,5.623490042999999,70.0,"N deficient, K deficient",Moderate
+38,55,19,5.864623352000001,60.0,"N deficient, K deficient",Moderate
+35,58,20,5.761702519,60.0,"N deficient, K deficient",Moderate
+38,61,21,4.696518678,50.0,"N deficient, K deficient, ph deficient",Moderate
+33,58,24,5.269504214,50.0,"N deficient, K deficient, ph deficient",Moderate
+16,56,17,7.445444882999999,60.0,"N deficient, K deficient",Moderate
+31,72,17,5.833031707999999,60.0,"N deficient, K deficient",Moderate
+16,80,20,7.3393209289999986,60.0,"N deficient, K deficient",Moderate
+27,72,17,6.347929353,60.0,"N deficient, K deficient",Moderate
+40,62,19,4.697750704,60.0,"N deficient, K deficient, ph deficient",Moderate
+18,58,16,4.962661422,50.0,"N deficient, K deficient, ph deficient",Moderate
+3,68,16,4.964887857,50.0,"N deficient, K deficient, ph deficient",Moderate
+26,67,24,5.642813116,60.0,"N deficient, K deficient",Moderate
+16,70,20,5.6093956,60.0,"N deficient, K deficient",Moderate
+24,63,19,4.681576043,50.0,"N deficient, K deficient, ph deficient",Moderate
+9,76,25,5.70951224,60.0,"N deficient, K deficient",Moderate
+16,55,19,6.413543781,60.0,"N deficient, K deficient",Moderate
+28,75,21,6.007508163,60.0,"N deficient, K deficient",Moderate
+16,71,24,4.946369874,50.0,"N deficient, K deficient, ph deficient",Moderate
+24,70,21,5.517208078,60.0,"N deficient, K deficient",Moderate
+38,72,21,5.902103172,60.0,"N deficient, K deficient",Moderate
+9,66,21,5.719889876,60.0,"N deficient, K deficient",Moderate
+34,56,17,4.548202098,50.0,"N deficient, K deficient, ph deficient",Moderate
+1,76,19,6.6695294160000005,60.0,"N deficient, K deficient",Moderate
+6,69,19,4.7509292180000005,50.0,"N deficient, K deficient, ph deficient",Moderate
+26,73,21,4.946263888,50.0,"N deficient, K deficient, ph deficient",Moderate
+27,61,18,5.266227032,50.0,"N deficient, K deficient, ph deficient",Moderate
+27,71,23,7.10959773,60.0,"N deficient, K deficient",Moderate
+36,61,21,5.617008201,60.0,"N deficient, K deficient",Moderate
+17,73,18,5.632353113,60.0,"N deficient, K deficient",Moderate
+26,72,22,4.674941549,50.0,"N deficient, K deficient, ph deficient",Moderate
+17,64,16,7.161797643,60.0,"N deficient, K deficient",Moderate
+14,74,19,6.624966131,60.0,"N deficient, K deficient",Moderate
+39,60,15,5.004074623999999,50.0,"N deficient, K deficient, ph deficient",Moderate
+6,66,15,6.3458060110000005,60.0,"N deficient, K deficient",Moderate
+8,59,18,6.216814453,60.0,"N deficient, K deficient",Moderate
+2,67,18,5.921666758,60.0,"N deficient, K deficient",Moderate
+1,76,17,6.012719118,60.0,"N deficient, K deficient",Moderate
+16,73,19,4.684079249,50.0,"N deficient, K deficient, ph deficient",Moderate
+23,75,25,7.077170002000001,60.0,"N deficient, K deficient",Moderate
+32,70,20,6.208843215,60.0,"N deficient, K deficient",Moderate
+28,59,22,7.05181629,60.0,"N deficient, K deficient",Moderate
+5,62,23,4.722222454,50.0,"N deficient, K deficient, ph deficient",Moderate
+36,67,25,6.418062652000001,60.0,"N deficient, K deficient",Moderate
+1,66,23,4.803564468,50.0,"N deficient, K deficient, ph deficient",Moderate
+24,73,20,4.608695247,50.0,"N deficient, K deficient, ph deficient",Moderate
+17,67,18,5.611510977000001,60.0,"N deficient, K deficient",Moderate
+5,55,18,7.322097972000001,60.0,"N deficient, K deficient",Moderate
+5,56,24,5.023115055,50.0,"N deficient, K deficient, ph deficient",Moderate
+37,77,17,5.617122801,60.0,"N deficient, K deficient",Moderate
+13,73,20,5.391560417999999,50.0,"N deficient, K deficient, ph deficient",Moderate
+6,63,23,5.906596905,60.0,"N deficient, K deficient",Moderate
+16,77,22,6.574209678,60.0,"N deficient, K deficient",Moderate
+25,64,20,4.807776748999999,50.0,"N deficient, K deficient, ph deficient",Moderate
+34,75,24,4.760038038999999,50.0,"N deficient, K deficient, ph deficient",Moderate
+20,77,23,5.180271502,50.0,"N deficient, K deficient, ph deficient",Moderate
+35,80,25,4.895927306,50.0,"N deficient, K deficient, ph deficient",Moderate
+14,75,24,6.436160044,60.0,"N deficient, K deficient",Moderate
+36,80,21,7.066087261,60.0,"N deficient, K deficient",Moderate
+7,77,18,6.655918077999999,60.0,"N deficient, K deficient",Moderate
+29,78,25,5.982854522999999,60.0,"N deficient, K deficient",Moderate
+30,60,21,5.457871272999999,50.0,"N deficient, K deficient, ph deficient",Moderate
+20,74,16,4.759490199,50.0,"N deficient, K deficient, ph deficient",Moderate
+19,57,23,7.342409555,60.0,"N deficient, K deficient",Moderate
+3,60,19,4.820788186000001,50.0,"N deficient, K deficient, ph deficient",Moderate
+5,77,19,6.242052013,60.0,"N deficient, K deficient",Moderate
+5,68,20,5.001038726,50.0,"N deficient, K deficient, ph deficient",Moderate
+37,73,21,5.560224582999999,60.0,"N deficient, K deficient",Moderate
+9,59,24,4.747352458,50.0,"N deficient, K deficient, ph deficient",Moderate
+20,72,15,7.313517308,60.0,"N deficient, K deficient",Moderate
+31,56,23,5.661826398,60.0,"N deficient, K deficient",Moderate
+0,70,21,4.672437054,50.0,"N deficient, K deficient, ph deficient",Moderate
+21,74,15,6.471862118,60.0,"N deficient, K deficient",Moderate
+13,67,18,5.384762927000001,50.0,"N deficient, K deficient, ph deficient",Moderate
+27,74,20,5.8598134160000015,60.0,"N deficient, K deficient",Moderate
+29,72,24,6.962386495,60.0,"N deficient, K deficient",Moderate
+5,68,20,6.12166671,60.0,"N deficient, K deficient",Moderate
+39,57,19,6.421748487,60.0,"N deficient, K deficient",Moderate
+22,62,16,4.828936119,50.0,"N deficient, K deficient, ph deficient",Moderate
+18,55,23,6.98571967,60.0,"N deficient, K deficient",Moderate
+39,77,21,4.603563116,50.0,"N deficient, K deficient, ph deficient",Moderate
+13,75,20,6.979540061,60.0,"N deficient, K deficient",Moderate
+27,71,24,7.064973419,60.0,"N deficient, K deficient",Moderate
+26,64,22,5.16516459,50.0,"N deficient, K deficient, ph deficient",Moderate
+23,55,16,5.111488821,50.0,"N deficient, K deficient, ph deficient",Moderate
+4,69,19,5.374358869,50.0,"N deficient, K deficient, ph deficient",Moderate
+20,67,19,5.671419084,60.0,"N deficient, K deficient",Moderate
+7,74,17,5.667419697000001,60.0,"N deficient, K deficient",Moderate
+17,64,18,6.07938452,60.0,"N deficient, K deficient",Moderate
+35,71,17,6.931924962999999,60.0,"N deficient, K deficient",Moderate
+11,72,22,6.842744374,60.0,"N deficient, K deficient",Moderate
+20,60,22,6.876572502999999,60.0,"N deficient, K deficient",Moderate
+10,71,18,6.151029296,60.0,"N deficient, K deficient",Moderate
+33,61,24,4.567446499,50.0,"N deficient, K deficient, ph deficient",Moderate
+3,49,18,3.692863601,40.0,"N deficient, K deficient, ph deficient",Poor
+22,59,23,4.371745575,40.0,"N deficient, K deficient, ph deficient",Poor
+36,58,25,8.399135957999999,50.0,"N deficient, K deficient, ph excess",Moderate
+4,43,18,8.840656256,50.0,"N deficient, K deficient, ph excess",Moderate
+29,54,16,8.153022903,50.0,"N deficient, K deficient, ph excess",Moderate
+32,43,22,5.270749441,50.0,"N deficient, K deficient, ph deficient",Moderate
+14,55,15,8.050304395,50.0,"N deficient, K deficient, ph excess",Moderate
+25,57,24,6.974978386,60.0,"N deficient, K deficient",Moderate
+11,53,24,7.39389918,60.0,"N deficient, K deficient",Moderate
+40,49,17,6.68727523,70.0,"N deficient, K deficient",Moderate
+38,56,25,7.88118645,50.0,"N deficient, K deficient, ph excess",Moderate
+27,43,23,5.875333778,60.0,"N deficient, K deficient",Moderate
+24,38,22,8.202706015,40.0,"N deficient, P deficient, K deficient, ph excess",Poor
+23,45,21,8.985348193,50.0,"N deficient, K deficient, ph excess",Moderate
+29,57,20,5.87707519,60.0,"N deficient, K deficient",Moderate
+31,35,23,7.707595055,40.0,"N deficient, P deficient, K deficient, ph excess",Poor
+0,55,25,4.524171562,50.0,"N deficient, K deficient, ph deficient",Moderate
+17,58,25,6.455592696,60.0,"N deficient, K deficient",Moderate
+11,44,17,8.016210782,50.0,"N deficient, K deficient, ph excess",Moderate
+22,49,22,3.71105919,40.0,"N deficient, K deficient, ph deficient",Poor
+9,51,19,5.49091063,50.0,"N deficient, K deficient, ph deficient",Moderate
+26,50,19,6.005242945,60.0,"N deficient, K deficient",Moderate
+36,56,20,7.437078236,60.0,"N deficient, K deficient",Moderate
+8,60,18,3.808429173,40.0,"N deficient, K deficient, ph deficient",Poor
+24,37,21,5.818219385,50.0,"N deficient, P deficient, K deficient",Moderate
+22,43,24,4.52363558,50.0,"N deficient, K deficient, ph deficient",Moderate
+36,43,24,3.510404312,40.0,"N deficient, K deficient, ph deficient",Poor
+22,44,24,6.030447288,60.0,"N deficient, K deficient",Moderate
+17,43,22,5.498340807999999,50.0,"N deficient, K deficient, ph deficient",Moderate
+8,45,15,4.61136408,50.0,"N deficient, K deficient, ph deficient",Moderate
+7,56,23,5.545219232000001,60.0,"N deficient, K deficient",Moderate
+36,57,16,8.292875733999999,50.0,"N deficient, K deficient, ph excess",Moderate
+11,45,19,3.828031463,40.0,"N deficient, K deficient, ph deficient",Poor
+6,36,22,8.869532817,40.0,"N deficient, P deficient, K deficient, ph excess",Poor
+17,57,20,3.793575185,40.0,"N deficient, K deficient, ph deficient",Poor
+4,47,20,4.193189124,40.0,"N deficient, K deficient, ph deficient",Poor
+9,49,16,7.661537347999999,50.0,"N deficient, K deficient, ph excess",Moderate
+36,44,21,4.516154055,50.0,"N deficient, K deficient, ph deficient",Moderate
+21,38,20,5.794289715,50.0,"N deficient, P deficient, K deficient",Moderate
+37,57,20,7.354286985,60.0,"N deficient, K deficient",Moderate
+32,48,18,5.993513566,60.0,"N deficient, K deficient",Moderate
+29,44,20,8.620107545,50.0,"N deficient, K deficient, ph excess",Moderate
+10,44,24,8.0344125,50.0,"N deficient, K deficient, ph excess",Moderate
+23,35,18,5.414492777,40.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+9,60,23,6.2760043360000015,60.0,"N deficient, K deficient",Moderate
+22,42,22,7.887658711,50.0,"N deficient, K deficient, ph excess",Moderate
+12,39,21,8.183844843,40.0,"N deficient, P deficient, K deficient, ph excess",Poor
+32,41,16,7.702287236,50.0,"N deficient, K deficient, ph excess",Moderate
+30,41,15,5.88509677,60.0,"N deficient, K deficient",Moderate
+19,36,22,6.16496284,50.0,"N deficient, P deficient, K deficient",Moderate
+4,46,15,3.504752314,40.0,"N deficient, K deficient, ph deficient",Poor
+21,39,20,7.388007482999999,50.0,"N deficient, P deficient, K deficient",Moderate
+35,57,25,8.340398059,50.0,"N deficient, K deficient, ph excess",Moderate
+22,55,24,8.66077954,50.0,"N deficient, K deficient, ph excess",Moderate
+35,51,17,3.558822825,40.0,"N deficient, K deficient, ph deficient",Poor
+17,56,17,5.9565851,60.0,"N deficient, K deficient",Moderate
+22,36,16,8.18422855,40.0,"N deficient, P deficient, K deficient, ph excess",Poor
+11,41,19,5.131779302,50.0,"N deficient, K deficient, ph deficient",Moderate
+38,38,18,6.294130312999999,50.0,"N deficient, P deficient, K deficient",Moderate
+23,37,24,7.991902443,40.0,"N deficient, P deficient, K deficient, ph excess",Poor
+25,35,20,8.923095695,40.0,"N deficient, P deficient, K deficient, ph excess",Poor
+40,45,20,6.878498176,70.0,"N deficient, K deficient",Moderate
+23,58,19,5.243634848999999,50.0,"N deficient, K deficient, ph deficient",Moderate
+2,56,23,7.550090941,50.0,"N deficient, K deficient, ph excess",Moderate
+3,56,17,8.709291687999999,50.0,"N deficient, K deficient, ph excess",Moderate
+26,51,25,7.792508067999999,50.0,"N deficient, K deficient, ph excess",Moderate
+39,42,20,8.055908857999999,50.0,"N deficient, K deficient, ph excess",Moderate
+27,59,20,4.397698806,40.0,"N deficient, K deficient, ph deficient",Poor
+24,45,19,5.9523849570000005,60.0,"N deficient, K deficient",Moderate
+7,40,17,8.532078732999999,50.0,"N deficient, K deficient, ph excess",Moderate
+15,45,23,7.224193642,60.0,"N deficient, K deficient",Moderate
+26,52,23,4.931890506,50.0,"N deficient, K deficient, ph deficient",Moderate
+20,45,16,4.626212446,50.0,"N deficient, K deficient, ph deficient",Moderate
+34,54,24,5.026003659,50.0,"N deficient, K deficient, ph deficient",Moderate
+19,51,25,3.5253661,40.0,"N deficient, K deficient, ph deficient",Poor
+29,41,21,8.86979671,50.0,"N deficient, K deficient, ph excess",Moderate
+11,40,23,5.80428611,60.0,"N deficient, K deficient",Moderate
+15,54,15,8.35495812,50.0,"N deficient, K deficient, ph excess",Moderate
+35,55,22,8.634929739,50.0,"N deficient, K deficient, ph excess",Moderate
+9,59,25,7.699200949,50.0,"N deficient, K deficient, ph excess",Moderate
+40,45,18,5.261285926,60.0,"N deficient, K deficient, ph deficient",Moderate
+14,58,17,4.605700542,50.0,"N deficient, K deficient, ph deficient",Moderate
+40,55,18,7.115994051,70.0,"N deficient, K deficient",Moderate
+18,36,23,7.214078621,50.0,"N deficient, P deficient, K deficient",Moderate
+4,59,22,8.914074888,50.0,"N deficient, K deficient, ph excess",Moderate
+22,51,16,8.639586199,50.0,"N deficient, K deficient, ph excess",Moderate
+33,47,17,8.621514073,50.0,"N deficient, K deficient, ph excess",Moderate
+2,51,17,5.838508699,60.0,"N deficient, K deficient",Moderate
+16,51,21,3.532008668,40.0,"N deficient, K deficient, ph deficient",Poor
+19,55,20,7.18530147,60.0,"N deficient, K deficient",Moderate
+8,54,20,7.034214276,60.0,"N deficient, K deficient",Moderate
+36,55,20,6.635968697999999,60.0,"N deficient, K deficient",Moderate
+10,56,16,6.828187498999998,60.0,"N deficient, K deficient",Moderate
+22,56,17,6.89077995,60.0,"N deficient, K deficient",Moderate
+9,57,24,7.165121108999998,60.0,"N deficient, K deficient",Moderate
+34,59,23,6.935804256,60.0,"N deficient, K deficient",Moderate
+31,51,25,7.196774236,60.0,"N deficient, K deficient",Moderate
+0,49,18,6.990095452,60.0,"N deficient, K deficient",Moderate
+21,39,20,7.064782137999999,50.0,"N deficient, P deficient, K deficient",Moderate
+28,35,22,7.156563094,50.0,"N deficient, P deficient, K deficient",Moderate
+17,52,17,6.364967184,60.0,"N deficient, K deficient",Moderate
+24,42,23,6.428054409,60.0,"N deficient, K deficient",Moderate
+28,46,16,6.664187809,60.0,"N deficient, K deficient",Moderate
+21,38,21,6.637677489,50.0,"N deficient, P deficient, K deficient",Moderate
+34,60,25,6.79385576,60.0,"N deficient, K deficient",Moderate
+19,53,22,6.852884642999999,60.0,"N deficient, K deficient",Moderate
+31,58,15,7.121571293,60.0,"N deficient, K deficient",Moderate
+19,35,24,6.883308033,50.0,"N deficient, P deficient, K deficient",Moderate
+24,53,17,6.421271178,60.0,"N deficient, K deficient",Moderate
+13,47,20,6.54450214,60.0,"N deficient, K deficient",Moderate
+31,53,16,6.452006451,60.0,"N deficient, K deficient",Moderate
+28,45,23,6.489259136,60.0,"N deficient, K deficient",Moderate
+31,37,21,6.713410626,50.0,"N deficient, P deficient, K deficient",Moderate
+33,60,15,6.510840928,60.0,"N deficient, K deficient",Moderate
+34,45,21,6.2873801170000005,60.0,"N deficient, K deficient",Moderate
+13,57,25,6.86308576,60.0,"N deficient, K deficient",Moderate
+33,57,17,6.78415271,60.0,"N deficient, K deficient",Moderate
+32,57,22,6.769415887999999,60.0,"N deficient, K deficient",Moderate
+23,59,25,6.320768488,60.0,"N deficient, K deficient",Moderate
+35,41,18,6.705008503999999,60.0,"N deficient, K deficient",Moderate
+6,48,24,6.790736339,60.0,"N deficient, K deficient",Moderate
+29,36,25,7.130278657000001,50.0,"N deficient, P deficient, K deficient",Moderate
+4,36,22,7.012740397000001,50.0,"N deficient, P deficient, K deficient",Moderate
+10,59,22,7.1556850160000005,60.0,"N deficient, K deficient",Moderate
+14,48,21,6.991242362,60.0,"N deficient, K deficient",Moderate
+8,50,21,6.218923893,60.0,"N deficient, K deficient",Moderate
+20,40,15,7.199495367999999,60.0,"N deficient, K deficient",Moderate
+36,43,22,6.3898821660000005,60.0,"N deficient, K deficient",Moderate
+14,57,15,6.623438282,60.0,"N deficient, K deficient",Moderate
+11,60,23,7.033012777000001,60.0,"N deficient, K deficient",Moderate
+10,59,15,6.32400451,60.0,"N deficient, K deficient",Moderate
+7,60,25,6.397636709,60.0,"N deficient, K deficient",Moderate
+2,47,15,6.401455706,60.0,"N deficient, K deficient",Moderate
+20,45,22,6.904587016,60.0,"N deficient, K deficient",Moderate
+2,39,15,6.478557136,50.0,"N deficient, P deficient, K deficient",Moderate
+27,40,24,7.063022095,60.0,"N deficient, K deficient",Moderate
+35,48,15,6.981758362000001,60.0,"N deficient, K deficient",Moderate
+4,59,25,6.227134139,60.0,"N deficient, K deficient",Moderate
+1,48,24,6.232836962,60.0,"N deficient, K deficient",Moderate
+36,43,21,7.140437859,60.0,"N deficient, K deficient",Moderate
+11,46,24,6.459252023,60.0,"N deficient, K deficient",Moderate
+34,47,19,6.568795403999999,60.0,"N deficient, K deficient",Moderate
+21,44,18,7.12851089,60.0,"N deficient, K deficient",Moderate
+17,58,20,6.42937879,60.0,"N deficient, K deficient",Moderate
+25,40,21,6.248900919,60.0,"N deficient, K deficient",Moderate
+2,38,18,6.619891497999999,50.0,"N deficient, P deficient, K deficient",Moderate
+9,48,20,6.377568542000001,60.0,"N deficient, K deficient",Moderate
+37,49,25,6.415459592,60.0,"N deficient, K deficient",Moderate
+36,38,15,6.3206620120000006,50.0,"N deficient, P deficient, K deficient",Moderate
+40,58,15,6.978400282000001,70.0,"N deficient, K deficient",Moderate
+30,44,16,6.442335592999999,60.0,"N deficient, K deficient",Moderate
+1,59,23,7.184398832,60.0,"N deficient, K deficient",Moderate
+9,48,22,6.402926221,60.0,"N deficient, K deficient",Moderate
+14,41,17,7.085982325,60.0,"N deficient, K deficient",Moderate
+35,52,19,6.698574085,60.0,"N deficient, K deficient",Moderate
+31,48,17,6.594739424,60.0,"N deficient, K deficient",Moderate
+4,41,20,6.647965508,60.0,"N deficient, K deficient",Moderate
+30,37,25,7.120032489,50.0,"N deficient, P deficient, K deficient",Moderate
+9,35,20,6.91380932,50.0,"N deficient, P deficient, K deficient",Moderate
+20,41,20,7.073048264,60.0,"N deficient, K deficient",Moderate
+37,50,23,6.5304707,60.0,"N deficient, K deficient",Moderate
+34,35,21,6.684381357,50.0,"N deficient, P deficient, K deficient",Moderate
+14,37,15,6.581351374,50.0,"N deficient, P deficient, K deficient",Moderate
+23,39,22,6.86483915,50.0,"N deficient, P deficient, K deficient",Moderate
+5,45,21,6.487124217000001,60.0,"N deficient, K deficient",Moderate
+22,37,20,6.605733067999999,50.0,"N deficient, P deficient, K deficient",Moderate
+40,51,17,6.860602782000001,70.0,"N deficient, K deficient",Moderate
+27,56,20,6.41874299,60.0,"N deficient, K deficient",Moderate
+31,40,22,6.365513634,60.0,"N deficient, K deficient",Moderate
+38,36,21,6.5563729660000005,50.0,"N deficient, P deficient, K deficient",Moderate
+6,37,17,6.760694227999999,50.0,"N deficient, P deficient, K deficient",Moderate
+6,47,18,6.715276662999999,60.0,"N deficient, K deficient",Moderate
+24,44,17,6.666380512000001,60.0,"N deficient, K deficient",Moderate
+25,59,19,6.626629798,60.0,"N deficient, K deficient",Moderate
+32,56,21,6.702772465,60.0,"N deficient, K deficient",Moderate
+8,45,18,7.011030515,60.0,"N deficient, K deficient",Moderate
+19,39,17,6.890156495,50.0,"N deficient, P deficient, K deficient",Moderate
+39,37,15,6.821747052,50.0,"N deficient, P deficient, K deficient",Moderate
+33,37,19,7.183189922,50.0,"N deficient, P deficient, K deficient",Moderate
+26,54,17,6.27258822,60.0,"N deficient, K deficient",Moderate
+21,51,15,6.679127482,60.0,"N deficient, K deficient",Moderate
+22,54,20,6.689825155,60.0,"N deficient, K deficient",Moderate
+29,45,16,6.583381939,60.0,"N deficient, K deficient",Moderate
+4,40,21,6.725551062,60.0,"N deficient, K deficient",Moderate
+10,37,22,7.069747813999999,50.0,"N deficient, P deficient, K deficient",Moderate
+4,44,19,6.921993877999999,60.0,"N deficient, K deficient",Moderate
+20,45,17,6.770955317,60.0,"N deficient, K deficient",Moderate
+23,45,23,6.983130466,60.0,"N deficient, K deficient",Moderate
+25,48,21,6.267684328,60.0,"N deficient, K deficient",Moderate
+56,79,15,7.454532137,80.0,K deficient,Healthy
+25,62,21,7.040056094,60.0,"N deficient, K deficient",Moderate
+42,61,22,7.418650668,70.0,"N deficient, K deficient",Moderate
+42,73,25,6.501869314,70.0,"N deficient, K deficient",Moderate
+44,58,18,6.814410927999999,70.0,"N deficient, K deficient",Moderate
+50,55,16,7.581442888,70.0,"K deficient, ph excess",Moderate
+35,72,21,7.741418772,50.0,"N deficient, K deficient, ph excess",Moderate
+30,64,20,6.573531614,60.0,"N deficient, K deficient",Moderate
+27,64,21,7.543804222999999,50.0,"N deficient, K deficient, ph excess",Moderate
+50,74,17,6.5408208,80.0,K deficient,Healthy
+39,73,24,7.22405917,60.0,"N deficient, K deficient",Moderate
+57,67,25,7.551364319,70.0,"K deficient, ph excess",Moderate
+52,63,19,6.928898659,80.0,K deficient,Healthy
+55,66,22,7.747775262999999,70.0,"K deficient, ph excess",Moderate
+51,56,18,6.706505915,80.0,K deficient,Healthy
+36,66,15,6.668238556,60.0,"N deficient, K deficient",Moderate
+59,55,19,7.332375138,80.0,K deficient,Healthy
+50,58,23,7.596802025,70.0,"K deficient, ph excess",Moderate
+30,65,25,7.70650895,50.0,"N deficient, K deficient, ph excess",Moderate
+20,62,18,7.366542647,60.0,"N deficient, K deficient",Moderate
+58,71,15,6.919243702,80.0,K deficient,Healthy
+25,71,24,7.187721817999999,60.0,"N deficient, K deficient",Moderate
+52,71,16,7.0758864720000005,80.0,K deficient,Healthy
+40,63,18,6.74441168,70.0,"N deficient, K deficient",Moderate
+20,60,25,6.726469087999999,60.0,"N deficient, K deficient",Moderate
+48,61,21,6.628264883,70.0,"N deficient, K deficient",Moderate
+49,68,22,7.127064207,70.0,"N deficient, K deficient",Moderate
+48,62,15,7.538631462000001,60.0,"N deficient, K deficient, ph excess",Moderate
+32,66,17,7.162357641,60.0,"N deficient, K deficient",Moderate
+21,63,22,6.859409487000001,60.0,"N deficient, K deficient",Moderate
+20,72,19,7.397190844,60.0,"N deficient, K deficient",Moderate
+25,65,21,6.880245789,60.0,"N deficient, K deficient",Moderate
+41,78,21,6.581313137,70.0,"N deficient, K deficient",Moderate
+53,67,17,7.296972161,80.0,K deficient,Healthy
+39,60,21,6.97297656,60.0,"N deficient, K deficient",Moderate
+25,76,17,7.241148507,60.0,"N deficient, K deficient",Moderate
+21,78,19,6.92009048,60.0,"N deficient, K deficient",Moderate
+57,60,17,7.504608385,70.0,"K deficient, ph excess",Moderate
+56,75,15,7.152272256,80.0,K deficient,Healthy
+49,72,15,7.137004749,70.0,"N deficient, K deficient",Moderate
+24,80,19,6.8080417220000005,60.0,"N deficient, K deficient",Moderate
+49,76,18,7.393631868,70.0,"N deficient, K deficient",Moderate
+28,68,19,7.69950698,50.0,"N deficient, K deficient, ph excess",Moderate
+55,78,21,6.602888248999999,80.0,K deficient,Healthy
+50,64,25,6.734447425,80.0,K deficient,Healthy
+34,80,19,6.521217963,60.0,"N deficient, K deficient",Moderate
+20,68,23,7.707332484,50.0,"N deficient, K deficient, ph excess",Moderate
+55,67,16,6.596719015,80.0,K deficient,Healthy
+23,70,15,7.403623355,60.0,"N deficient, K deficient",Moderate
+53,74,15,7.517097,70.0,"K deficient, ph excess",Moderate
+26,67,16,7.17620823,60.0,"N deficient, K deficient",Moderate
+33,80,22,6.593961761,60.0,"N deficient, K deficient",Moderate
+37,79,19,7.143942758,60.0,"N deficient, K deficient",Moderate
+33,75,21,6.690655045,60.0,"N deficient, K deficient",Moderate
+22,55,20,7.423530351,60.0,"N deficient, K deficient",Moderate
+20,68,17,6.578714842999999,60.0,"N deficient, K deficient",Moderate
+43,68,20,7.497469256,70.0,"N deficient, K deficient",Moderate
+44,76,22,7.775306272000001,60.0,"N deficient, K deficient, ph excess",Moderate
+34,60,16,7.322555222999999,60.0,"N deficient, K deficient",Moderate
+21,72,17,7.580527339,50.0,"N deficient, K deficient, ph excess",Moderate
+25,68,19,7.1084501210000015,60.0,"N deficient, K deficient",Moderate
+41,62,15,7.358974541,70.0,"N deficient, K deficient",Moderate
+28,65,23,7.405176138,60.0,"N deficient, K deficient",Moderate
+35,64,15,6.500144962,60.0,"N deficient, K deficient",Moderate
+52,58,16,7.167435834,80.0,K deficient,Healthy
+58,75,25,7.261791753,80.0,K deficient,Healthy
+34,66,19,7.586642101,50.0,"N deficient, K deficient, ph excess",Moderate
+52,70,16,7.534811832999999,70.0,"K deficient, ph excess",Moderate
+23,57,19,7.251000789,60.0,"N deficient, K deficient",Moderate
+42,58,25,6.513620917999999,70.0,"N deficient, K deficient",Moderate
+37,62,17,7.121254928,60.0,"N deficient, K deficient",Moderate
+44,75,22,7.574561547,60.0,"N deficient, K deficient, ph excess",Moderate
+21,80,20,7.350869792,60.0,"N deficient, K deficient",Moderate
+56,76,16,7.5131510760000015,70.0,"K deficient, ph excess",Moderate
+29,76,15,7.0256077060000015,60.0,"N deficient, K deficient",Moderate
+43,61,20,6.804253866,70.0,"N deficient, K deficient",Moderate
+55,60,15,7.163043872,80.0,K deficient,Healthy
+44,63,15,7.338929556,70.0,"N deficient, K deficient",Moderate
+29,67,21,6.621323612,60.0,"N deficient, K deficient",Moderate
+47,63,16,6.661870999,70.0,"N deficient, K deficient",Moderate
+40,68,17,7.733149554,60.0,"N deficient, K deficient, ph excess",Moderate
+58,61,15,7.402891666,80.0,K deficient,Healthy
+41,74,18,6.599147297999999,70.0,"N deficient, K deficient",Moderate
+58,79,17,7.04174124,80.0,K deficient,Healthy
+27,62,24,7.353876754,60.0,"N deficient, K deficient",Moderate
+27,60,17,7.026795358999999,60.0,"N deficient, K deficient",Moderate
+52,65,20,6.814301033,80.0,K deficient,Healthy
+44,55,25,7.42160832,70.0,"N deficient, K deficient",Moderate
+21,62,24,6.8473828910000005,60.0,"N deficient, K deficient",Moderate
+60,59,22,7.191522601,80.0,K deficient,Healthy
+33,77,21,7.01285529,60.0,"N deficient, K deficient",Moderate
+59,58,17,7.368318809,80.0,K deficient,Healthy
+29,63,17,7.26154329,60.0,"N deficient, K deficient",Moderate
+59,63,18,6.52669158,80.0,K deficient,Healthy
+29,70,15,6.872594461,60.0,"N deficient, K deficient",Moderate
+58,73,16,6.874142175,80.0,K deficient,Healthy
+55,77,22,7.76061831,70.0,"K deficient, ph excess",Moderate
+42,79,23,6.781841984,70.0,"N deficient, K deficient",Moderate
+44,77,21,7.326980454,70.0,"N deficient, K deficient",Moderate
+38,62,25,7.453975408,60.0,"N deficient, K deficient",Moderate
+32,76,15,7.604110177000001,50.0,"N deficient, K deficient, ph excess",Moderate
+13,61,22,7.728832424,50.0,"N deficient, K deficient, ph excess",Moderate
+38,60,20,7.491217102,60.0,"N deficient, K deficient",Moderate
+11,74,17,6.633864582,60.0,"N deficient, K deficient",Moderate
+37,71,16,7.324863481,60.0,"N deficient, K deficient",Moderate
+29,71,18,6.410441476,60.0,"N deficient, K deficient",Moderate
+2,72,18,7.836719564,50.0,"N deficient, K deficient, ph excess",Moderate
+6,59,21,6.139215944,60.0,"N deficient, K deficient",Moderate
+13,64,20,6.590571088,60.0,"N deficient, K deficient",Moderate
+8,58,17,7.286049977999999,60.0,"N deficient, K deficient",Moderate
+6,77,20,6.058306161,60.0,"N deficient, K deficient",Moderate
+2,75,22,6.658605362,60.0,"N deficient, K deficient",Moderate
+3,69,23,7.299360767,60.0,"N deficient, K deficient",Moderate
+27,80,24,7.815210661,50.0,"N deficient, K deficient, ph excess",Moderate
+39,78,15,5.925391795,60.0,"N deficient, K deficient",Moderate
+40,79,17,6.403683619,70.0,"N deficient, K deficient",Moderate
+37,62,22,7.397546271,60.0,"N deficient, K deficient",Moderate
+31,60,24,7.722335992,50.0,"N deficient, K deficient, ph excess",Moderate
+22,67,22,7.475926645,60.0,"N deficient, K deficient",Moderate
+3,78,18,6.887130053,60.0,"N deficient, K deficient",Moderate
+4,80,16,7.441976825,60.0,"N deficient, K deficient",Moderate
+13,61,24,7.629910252999999,50.0,"N deficient, K deficient, ph excess",Moderate
+12,66,20,7.336117221,60.0,"N deficient, K deficient",Moderate
+4,61,21,6.75020529,60.0,"N deficient, K deficient",Moderate
+9,60,21,7.52178027,50.0,"N deficient, K deficient, ph excess",Moderate
+18,66,22,6.347379185,60.0,"N deficient, K deficient",Moderate
+32,56,18,7.135251532000001,60.0,"N deficient, K deficient",Moderate
+6,72,15,7.670178119,50.0,"N deficient, K deficient, ph excess",Moderate
+15,77,20,7.399749291,60.0,"N deficient, K deficient",Moderate
+0,65,24,7.841496029,50.0,"N deficient, K deficient, ph excess",Moderate
+30,79,22,6.254216611,60.0,"N deficient, K deficient",Moderate
+3,63,16,6.868881707999999,60.0,"N deficient, K deficient",Moderate
+2,78,23,7.320514721,60.0,"N deficient, K deficient",Moderate
+10,78,18,6.296976913,60.0,"N deficient, K deficient",Moderate
+14,67,25,7.241151936,60.0,"N deficient, K deficient",Moderate
+39,65,23,7.685959305,50.0,"N deficient, K deficient, ph excess",Moderate
+19,72,15,6.890760124,60.0,"N deficient, K deficient",Moderate
+18,57,21,6.155915975,60.0,"N deficient, K deficient",Moderate
+31,58,15,6.167855382000001,60.0,"N deficient, K deficient",Moderate
+28,58,25,6.861640036,60.0,"N deficient, K deficient",Moderate
+5,65,19,6.978361689,60.0,"N deficient, K deficient",Moderate
+16,65,19,7.043160241,60.0,"N deficient, K deficient",Moderate
+34,65,19,5.94239222,60.0,"N deficient, K deficient",Moderate
+14,69,19,7.239455147,60.0,"N deficient, K deficient",Moderate
+22,55,16,6.516317561,60.0,"N deficient, K deficient",Moderate
+24,61,17,6.233269045,60.0,"N deficient, K deficient",Moderate
+2,79,15,7.505283615,50.0,"N deficient, K deficient, ph excess",Moderate
+26,63,17,6.950300686,60.0,"N deficient, K deficient",Moderate
+27,61,15,6.958054839,60.0,"N deficient, K deficient",Moderate
+24,70,16,6.54803469,60.0,"N deficient, K deficient",Moderate
+13,74,25,6.461618577,60.0,"N deficient, K deficient",Moderate
+6,64,23,7.065264073,60.0,"N deficient, K deficient",Moderate
+12,58,23,6.765091462000001,60.0,"N deficient, K deficient",Moderate
+32,79,22,5.91645379,60.0,"N deficient, K deficient",Moderate
+6,68,18,6.711341147000001,60.0,"N deficient, K deficient",Moderate
+10,79,20,6.379881442,60.0,"N deficient, K deficient",Moderate
+38,77,22,6.313284267999999,60.0,"N deficient, K deficient",Moderate
+17,74,17,7.393210848,60.0,"N deficient, K deficient",Moderate
+26,68,24,7.504930973,50.0,"N deficient, K deficient, ph excess",Moderate
+23,75,17,7.198076286,60.0,"N deficient, K deficient",Moderate
+32,78,22,7.007037515,60.0,"N deficient, K deficient",Moderate
+19,79,19,6.677262562,60.0,"N deficient, K deficient",Moderate
+22,60,18,6.74398035,60.0,"N deficient, K deficient",Moderate
+28,69,16,6.547361617999999,60.0,"N deficient, K deficient",Moderate
+1,67,21,6.551577598,60.0,"N deficient, K deficient",Moderate
+12,67,23,6.585020302999999,60.0,"N deficient, K deficient",Moderate
+36,67,20,6.924042372000001,60.0,"N deficient, K deficient",Moderate
+28,70,21,7.437373666,60.0,"N deficient, K deficient",Moderate
+12,71,19,7.142611056000002,60.0,"N deficient, K deficient",Moderate
+22,68,16,7.74672376,50.0,"N deficient, K deficient, ph excess",Moderate
+26,66,22,6.300479414,60.0,"N deficient, K deficient",Moderate
+16,65,16,6.078724107,60.0,"N deficient, K deficient",Moderate
+14,59,22,6.76660668,60.0,"N deficient, K deficient",Moderate
+33,59,19,7.641024177,50.0,"N deficient, K deficient, ph excess",Moderate
+21,63,17,6.559681838,60.0,"N deficient, K deficient",Moderate
+0,69,21,7.072923306,60.0,"N deficient, K deficient",Moderate
+10,75,17,7.732194787999999,50.0,"N deficient, K deficient, ph excess",Moderate
+30,61,18,6.157782589,60.0,"N deficient, K deficient",Moderate
+0,74,17,7.240988401,60.0,"N deficient, K deficient",Moderate
+35,74,22,6.898905799,60.0,"N deficient, K deficient",Moderate
+7,63,24,6.818681086000002,60.0,"N deficient, K deficient",Moderate
+9,56,17,6.261937875,60.0,"N deficient, K deficient",Moderate
+14,74,15,6.493036868,60.0,"N deficient, K deficient",Moderate
+14,76,20,7.042474679,60.0,"N deficient, K deficient",Moderate
+36,65,16,7.692013657,50.0,"N deficient, K deficient, ph excess",Moderate
+28,67,21,6.250994222999999,60.0,"N deficient, K deficient",Moderate
+28,79,16,6.0521848810000005,60.0,"N deficient, K deficient",Moderate
+40,61,22,7.002216044,70.0,"N deficient, K deficient",Moderate
+10,70,19,7.272427638,60.0,"N deficient, K deficient",Moderate
+12,80,19,5.962001484,60.0,"N deficient, K deficient",Moderate
+37,77,20,7.080506001,60.0,"N deficient, K deficient",Moderate
+0,67,22,6.5937983870000005,60.0,"N deficient, K deficient",Moderate
+7,73,25,7.28805662,60.0,"N deficient, K deficient",Moderate
+10,56,18,7.32710972,60.0,"N deficient, K deficient",Moderate
+39,70,15,6.366355781,60.0,"N deficient, K deficient",Moderate
+26,56,22,7.011121216,60.0,"N deficient, K deficient",Moderate
+9,77,17,6.280725549,60.0,"N deficient, K deficient",Moderate
+4,59,19,7.621494566,50.0,"N deficient, K deficient, ph excess",Moderate
+34,73,15,7.630424082999999,50.0,"N deficient, K deficient, ph excess",Moderate
+33,77,15,7.802212437,50.0,"N deficient, K deficient, ph excess",Moderate
+2,24,38,5.922935513,50.0,"N deficient, P deficient, K deficient",Moderate
+6,18,37,5.937649577999999,50.0,"N deficient, P deficient, K deficient",Moderate
+8,26,36,6.804781106,50.0,"N deficient, P deficient, K deficient",Moderate
+37,18,39,6.424670614,50.0,"N deficient, P deficient, K deficient",Moderate
+0,27,38,6.7380162210000005,50.0,"N deficient, P deficient, K deficient",Moderate
+31,25,38,6.4973666770000005,50.0,"N deficient, P deficient, K deficient",Moderate
+21,21,38,6.327673765,50.0,"N deficient, P deficient, K deficient",Moderate
+6,30,40,6.36137446,60.0,"N deficient, P deficient",Moderate
+25,27,41,6.9235093710000015,60.0,"N deficient, P deficient",Moderate
+15,11,38,6.630646082999999,50.0,"N deficient, P deficient, K deficient",Moderate
+14,5,36,5.832525853,50.0,"N deficient, P deficient, K deficient",Moderate
+16,10,41,6.738993954,60.0,"N deficient, P deficient",Moderate
+36,7,37,5.782435567,50.0,"N deficient, P deficient, K deficient",Moderate
+4,20,41,6.537042717,60.0,"N deficient, P deficient",Moderate
+29,22,40,6.145104401,60.0,"N deficient, P deficient",Moderate
+16,15,42,6.890784045,60.0,"N deficient, P deficient",Moderate
+18,27,41,7.175344328,60.0,"N deficient, P deficient",Moderate
+11,18,42,5.938528744,60.0,"N deficient, P deficient",Moderate
+5,15,38,5.709380472,50.0,"N deficient, P deficient, K deficient",Moderate
+18,23,44,6.184400085,60.0,"N deficient, P deficient",Moderate
+9,8,40,6.553509673,60.0,"N deficient, P deficient",Moderate
+40,27,45,5.885638185,70.0,"N deficient, P deficient",Moderate
+22,23,44,6.1438746910000015,60.0,"N deficient, P deficient",Moderate
+9,16,39,6.101198974,50.0,"N deficient, P deficient, K deficient",Moderate
+12,29,40,6.594037135,60.0,"N deficient, P deficient",Moderate
+0,17,42,6.8598408210000015,60.0,"N deficient, P deficient",Moderate
+2,21,44,6.56893406,60.0,"N deficient, P deficient",Moderate
+28,6,40,6.769855664,60.0,"N deficient, P deficient",Moderate
+8,23,44,7.130837931,60.0,"N deficient, P deficient",Moderate
+29,16,36,5.7403380020000006,50.0,"N deficient, P deficient, K deficient",Moderate
+17,18,43,5.843005428,60.0,"N deficient, P deficient",Moderate
+34,21,42,6.648687273999999,60.0,"N deficient, P deficient",Moderate
+21,23,42,6.902751061,60.0,"N deficient, P deficient",Moderate
+25,17,40,6.608023872,60.0,"N deficient, P deficient",Moderate
+8,25,36,6.828522375,50.0,"N deficient, P deficient, K deficient",Moderate
+26,18,42,6.910374919,60.0,"N deficient, P deficient",Moderate
+4,19,42,6.306605528,60.0,"N deficient, P deficient",Moderate
+36,24,41,7.009180374,60.0,"N deficient, P deficient",Moderate
+5,24,40,6.297907578999999,60.0,"N deficient, P deficient",Moderate
+19,17,39,6.728599215,50.0,"N deficient, P deficient, K deficient",Moderate
+39,30,38,6.965156737999999,50.0,"N deficient, P deficient, K deficient",Moderate
+5,29,44,5.578095745,60.0,"N deficient, P deficient",Moderate
+4,24,43,7.199504273,60.0,"N deficient, P deficient",Moderate
+38,21,35,5.841367187,50.0,"N deficient, P deficient, K deficient",Moderate
+37,11,36,6.710143266,50.0,"N deficient, P deficient, K deficient",Moderate
+9,25,41,5.972714857000001,60.0,"N deficient, P deficient",Moderate
+29,22,43,5.561851831,60.0,"N deficient, P deficient",Moderate
+5,21,38,6.107054807999999,50.0,"N deficient, P deficient, K deficient",Moderate
+22,26,38,6.988035315,50.0,"N deficient, P deficient, K deficient",Moderate
+4,18,37,7.13147457,50.0,"N deficient, P deficient, K deficient",Moderate
+21,6,41,7.086947687,60.0,"N deficient, P deficient",Moderate
+29,21,45,6.749260456,60.0,"N deficient, P deficient",Moderate
+23,5,44,7.16300467,60.0,"N deficient, P deficient",Moderate
+13,7,43,7.013481515,60.0,"N deficient, P deficient",Moderate
+5,13,37,5.648243648999999,50.0,"N deficient, P deficient, K deficient",Moderate
+27,24,41,6.610251186,60.0,"N deficient, P deficient",Moderate
+7,23,35,7.054313822999999,50.0,"N deficient, P deficient, K deficient",Moderate
+12,20,39,6.026999326,50.0,"N deficient, P deficient, K deficient",Moderate
+4,19,43,5.7794274020000005,60.0,"N deficient, P deficient",Moderate
+3,9,45,6.535244251,60.0,"N deficient, P deficient",Moderate
+1,27,36,5.684995235,50.0,"N deficient, P deficient, K deficient",Moderate
+23,30,44,6.12476108,60.0,"N deficient, P deficient",Moderate
+24,21,42,6.999014379,60.0,"N deficient, P deficient",Moderate
+13,30,37,6.277148771,50.0,"N deficient, P deficient, K deficient",Moderate
+40,11,44,6.322396027000001,70.0,"N deficient, P deficient",Moderate
+21,9,40,5.956401828,60.0,"N deficient, P deficient",Moderate
+3,27,44,6.591302797000001,60.0,"N deficient, P deficient",Moderate
+40,29,42,7.104094929,70.0,"N deficient, P deficient",Moderate
+14,25,40,6.407872061,60.0,"N deficient, P deficient",Moderate
+38,14,37,6.658402594,50.0,"N deficient, P deficient, K deficient",Moderate
+34,9,36,6.276038961,50.0,"N deficient, P deficient, K deficient",Moderate
+32,14,37,6.825256236,50.0,"N deficient, P deficient, K deficient",Moderate
+18,21,35,6.368560522,50.0,"N deficient, P deficient, K deficient",Moderate
+8,23,38,7.005410734,50.0,"N deficient, P deficient, K deficient",Moderate
+15,6,41,6.8973684770000006,60.0,"N deficient, P deficient",Moderate
+0,5,36,6.152906502,50.0,"N deficient, P deficient, K deficient",Moderate
+22,9,44,5.744361602000001,60.0,"N deficient, P deficient",Moderate
+14,8,43,7.051654924,60.0,"N deficient, P deficient",Moderate
+31,11,45,6.034612928,60.0,"N deficient, P deficient",Moderate
+39,17,45,6.9244907310000015,60.0,"N deficient, P deficient",Moderate
+10,5,42,6.887005997,60.0,"N deficient, P deficient",Moderate
+8,28,38,6.8444019,50.0,"N deficient, P deficient, K deficient",Moderate
+32,13,42,5.786058032000001,60.0,"N deficient, P deficient",Moderate
+18,9,40,5.627186257000001,60.0,"N deficient, P deficient",Moderate
+20,27,41,5.700088663,60.0,"N deficient, P deficient",Moderate
+39,25,36,5.567805185,50.0,"N deficient, P deficient, K deficient",Moderate
+20,7,45,6.077886012,60.0,"N deficient, P deficient",Moderate
+11,10,45,6.397995609,60.0,"N deficient, P deficient",Moderate
+40,18,43,5.767372539,70.0,"N deficient, P deficient",Moderate
+3,26,39,7.079973241,50.0,"N deficient, P deficient, K deficient",Moderate
+9,16,36,5.893332377999999,50.0,"N deficient, P deficient, K deficient",Moderate
+30,20,38,7.058222596,50.0,"N deficient, P deficient, K deficient",Moderate
+40,9,41,5.78270695,70.0,"N deficient, P deficient",Moderate
+40,30,35,6.269663962999999,60.0,"N deficient, P deficient, K deficient",Moderate
+32,25,35,5.892913826,50.0,"N deficient, P deficient, K deficient",Moderate
+33,23,45,7.116538883,60.0,"N deficient, P deficient",Moderate
+4,14,41,6.430163481,60.0,"N deficient, P deficient",Moderate
+13,17,45,7.159520979,60.0,"N deficient, P deficient",Moderate
+39,24,39,6.431265737,50.0,"N deficient, P deficient, K deficient",Moderate
+8,28,37,6.082571701,50.0,"N deficient, P deficient, K deficient",Moderate
+91,94,46,6.149934034,90.0,P excess,Healthy
+105,95,50,5.849076099,90.0,P excess,Healthy
+108,92,53,6.276800323,90.0,P excess,Healthy
+86,76,54,5.926824754,100.0,No major deficiency,Healthy
+80,77,49,5.519088423,100.0,No major deficiency,Healthy
+93,94,53,6.079178787999999,90.0,P excess,Healthy
+90,92,55,6.13465588,90.0,P excess,Healthy
+108,89,53,5.808497603999999,90.0,P excess,Healthy
+108,88,55,5.891458107,90.0,P excess,Healthy
+105,77,52,5.816622478999999,100.0,No major deficiency,Healthy
+118,88,52,5.8431631610000005,90.0,P excess,Healthy
+101,87,54,6.376756632999999,90.0,P excess,Healthy
+95,75,50,5.623615687000001,100.0,No major deficiency,Healthy
+106,85,53,5.91505509,90.0,P excess,Healthy
+86,95,49,6.458714879,90.0,P excess,Healthy
+83,79,55,5.565028635,100.0,No major deficiency,Healthy
+85,95,47,6.211833161,90.0,P excess,Healthy
+109,79,45,6.490074429,100.0,No major deficiency,Healthy
+100,76,45,5.590236025,100.0,No major deficiency,Healthy
+117,86,48,6.225225238999999,90.0,P excess,Healthy
+114,94,53,6.190757458999999,90.0,P excess,Healthy
+110,78,50,5.915568968,100.0,No major deficiency,Healthy
+94,70,48,6.195152442,100.0,No major deficiency,Healthy
+80,71,47,6.156373499,100.0,No major deficiency,Healthy
+114,79,51,6.313197204,100.0,No major deficiency,Healthy
+88,78,45,6.324270089,100.0,No major deficiency,Healthy
+112,73,48,5.7074889870000005,100.0,No major deficiency,Healthy
+117,76,47,6.119216009,100.0,No major deficiency,Healthy
+111,87,48,5.571401169,90.0,P excess,Healthy
+89,83,47,5.63127166,90.0,P excess,Healthy
+93,91,47,6.101241579,90.0,P excess,Healthy
+92,81,52,6.438137278999998,90.0,P excess,Healthy
+105,74,45,6.098369122,100.0,No major deficiency,Healthy
+102,71,48,5.695267822000001,100.0,No major deficiency,Healthy
+94,91,51,5.6180944460000015,90.0,P excess,Healthy
+116,71,47,6.435785799,100.0,No major deficiency,Healthy
+117,79,49,6.176644228,100.0,No major deficiency,Healthy
+119,72,55,6.220643671,100.0,No major deficiency,Healthy
+99,73,53,5.8717022110000014,100.0,No major deficiency,Healthy
+91,84,52,6.390741836,90.0,P excess,Healthy
+80,90,47,6.21084479,90.0,P excess,Healthy
+101,70,48,6.012696655,100.0,No major deficiency,Healthy
+108,89,53,5.908770059,90.0,P excess,Healthy
+100,80,52,6.049801781,100.0,No major deficiency,Healthy
+109,91,53,6.010095852999999,90.0,P excess,Healthy
+82,78,46,5.738678895,100.0,No major deficiency,Healthy
+106,70,55,5.74055541,100.0,No major deficiency,Healthy
+90,86,52,5.793260262,90.0,P excess,Healthy
+83,95,50,5.50947065,90.0,P excess,Healthy
+119,90,48,5.986442306,90.0,P excess,Healthy
+107,72,45,5.790768046,100.0,No major deficiency,Healthy
+116,81,55,5.915546415,90.0,P excess,Healthy
+101,75,50,6.242528277999999,100.0,No major deficiency,Healthy
+93,81,50,6.0360792660000016,90.0,P excess,Healthy
+95,75,45,5.829898502000001,100.0,No major deficiency,Healthy
+107,71,55,6.088064451,100.0,No major deficiency,Healthy
+83,94,47,6.469370954,90.0,P excess,Healthy
+102,73,54,5.720726906,100.0,No major deficiency,Healthy
+86,79,45,5.80766417,100.0,No major deficiency,Healthy
+117,86,53,5.703381727999999,90.0,P excess,Healthy
+111,79,53,6.165001277999999,100.0,No major deficiency,Healthy
+95,74,50,6.002481605,100.0,No major deficiency,Healthy
+91,75,55,6.212369363,100.0,No major deficiency,Healthy
+93,83,46,5.765308943,90.0,P excess,Healthy
+92,85,51,5.740764682000001,90.0,P excess,Healthy
+104,80,54,5.879119455,100.0,No major deficiency,Healthy
+103,72,51,6.099478745,100.0,No major deficiency,Healthy
+92,75,45,5.674403358999999,100.0,No major deficiency,Healthy
+93,85,49,5.694243847,90.0,P excess,Healthy
+120,87,52,5.905494703,90.0,P excess,Healthy
+108,72,46,6.110844721,100.0,No major deficiency,Healthy
+105,88,54,6.020445317,90.0,P excess,Healthy
+98,79,50,6.435917308,100.0,No major deficiency,Healthy
+111,88,55,5.505393832999999,90.0,P excess,Healthy
+97,74,45,5.677719902000001,100.0,No major deficiency,Healthy
+95,82,48,5.719014989,90.0,P excess,Healthy
+89,91,55,6.275572297999999,90.0,P excess,Healthy
+89,85,55,6.275384607,90.0,P excess,Healthy
+118,88,51,6.201911642000001,90.0,P excess,Healthy
+101,92,45,5.758054257,90.0,P excess,Healthy
+99,92,47,6.3239336470000005,90.0,P excess,Healthy
+82,77,46,5.901100841,100.0,No major deficiency,Healthy
+90,86,55,5.644486582000001,90.0,P excess,Healthy
+95,88,52,6.235461772000001,90.0,P excess,Healthy
+104,73,46,6.28236237,100.0,No major deficiency,Healthy
+102,73,52,6.356090905,100.0,No major deficiency,Healthy
+100,74,52,5.837258235,100.0,No major deficiency,Healthy
+94,89,48,5.653437902,90.0,P excess,Healthy
+99,70,46,5.727469947,100.0,No major deficiency,Healthy
+112,87,48,6.200111067999999,90.0,P excess,Healthy
+117,82,45,5.614471478,90.0,P excess,Healthy
+96,86,51,6.257369799,90.0,P excess,Healthy
+113,85,45,6.037430836,90.0,P excess,Healthy
+105,93,46,5.760457558,90.0,P excess,Healthy
+85,89,51,6.1581644220000005,90.0,P excess,Healthy
+108,94,47,6.387431382999999,90.0,P excess,Healthy
+92,81,52,5.891413895,90.0,P excess,Healthy
+110,71,54,5.725418961,100.0,No major deficiency,Healthy
+82,75,55,6.281069505,100.0,No major deficiency,Healthy
+117,81,53,5.507641777999999,90.0,P excess,Healthy
+2,40,27,5.954626604,60.0,"N deficient, K deficient",Moderate
+39,24,31,4.757114897,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+21,26,27,5.6995869720000005,40.0,"N deficient, P deficient, K deficient",Poor
+25,22,25,5.977413802999999,40.0,"N deficient, P deficient, K deficient",Poor
+0,21,32,6.430139436,50.0,"N deficient, P deficient, K deficient",Moderate
+20,19,35,6.113935087000001,50.0,"N deficient, P deficient, K deficient",Moderate
+19,21,34,5.074272692,40.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+18,17,31,5.667507706,40.0,"N deficient, P deficient, K deficient",Poor
+11,36,33,5.978634285,60.0,"N deficient, P deficient, K deficient",Moderate
+30,28,30,5.064613314,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+18,19,27,4.772385986000001,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+23,23,27,5.161148592,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+37,30,34,6.797779227,50.0,"N deficient, P deficient, K deficient",Moderate
+11,27,30,6.39474303,40.0,"N deficient, P deficient, K deficient",Poor
+12,19,31,5.566704378,40.0,"N deficient, P deficient, K deficient",Poor
+3,28,33,5.755049971,50.0,"N deficient, P deficient, K deficient",Moderate
+37,38,32,5.417340525,50.0,"N deficient, P deficient, K deficient, ph deficient",Moderate
+26,37,30,6.166173833999999,50.0,"N deficient, P deficient, K deficient",Moderate
+14,18,30,5.191265116,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+40,16,35,4.954739564,50.0,"N deficient, P deficient, K deficient, ph deficient",Moderate
+4,20,25,5.664587011,40.0,"N deficient, P deficient, K deficient",Poor
+36,25,33,5.548584852,50.0,"N deficient, P deficient, K deficient",Moderate
+30,17,31,6.804437106,40.0,"N deficient, P deficient, K deficient",Poor
+28,37,28,6.097869767000001,50.0,"N deficient, P deficient, K deficient",Moderate
+38,15,30,5.075504537,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+12,37,30,4.546466109,40.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+38,19,31,5.855119267999999,40.0,"N deficient, P deficient, K deficient",Poor
+8,33,29,6.442393461,50.0,"N deficient, P deficient, K deficient",Moderate
+15,27,28,4.507523551,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+34,16,25,6.10729559,40.0,"N deficient, P deficient, K deficient",Poor
+11,36,31,6.47544932,50.0,"N deficient, P deficient, K deficient",Moderate
+33,29,34,6.832979508999999,50.0,"N deficient, P deficient, K deficient",Moderate
+12,31,26,5.395275719,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+12,34,28,6.13526938,50.0,"N deficient, P deficient, K deficient",Moderate
+5,16,31,4.555688532,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+1,30,29,6.4341977560000005,40.0,"N deficient, P deficient, K deficient",Poor
+16,35,31,5.316875978000001,40.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+35,18,26,5.279388967,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+4,40,26,6.720041791,60.0,"N deficient, K deficient",Moderate
+9,29,34,5.72742254,50.0,"N deficient, P deficient, K deficient",Moderate
+2,38,33,4.691396195,50.0,"N deficient, P deficient, K deficient, ph deficient",Moderate
+26,32,32,6.810186079,60.0,"N deficient, P deficient, K deficient",Moderate
+34,38,31,6.454045329,50.0,"N deficient, P deficient, K deficient",Moderate
+5,32,33,5.842763773,60.0,"N deficient, P deficient, K deficient",Moderate
+31,29,26,5.024124683999999,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+34,34,35,6.422710539,60.0,"N deficient, P deficient, K deficient",Moderate
+36,19,32,4.94295037,40.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+7,17,26,6.414526606,40.0,"N deficient, P deficient, K deficient",Poor
+38,15,27,6.777788126,40.0,"N deficient, P deficient, K deficient",Poor
+5,19,25,6.441328044,40.0,"N deficient, P deficient, K deficient",Poor
+37,36,26,4.650536197,40.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+21,31,32,5.254532213,40.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+37,36,27,5.910634533,50.0,"N deficient, P deficient, K deficient",Moderate
+23,23,30,4.755273631000001,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+36,26,26,6.814630246,40.0,"N deficient, P deficient, K deficient",Poor
+24,33,35,5.342866119,50.0,"N deficient, P deficient, K deficient, ph deficient",Moderate
+26,18,30,6.336234623999999,40.0,"N deficient, P deficient, K deficient",Poor
+22,17,26,4.754435025,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+11,34,32,6.831706773,60.0,"N deficient, P deficient, K deficient",Moderate
+29,35,28,6.9674177660000005,50.0,"N deficient, P deficient, K deficient",Moderate
+22,28,26,4.947683034,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+23,24,32,5.630619901,50.0,"N deficient, P deficient, K deficient",Moderate
+1,35,34,6.27339822,60.0,"N deficient, P deficient, K deficient",Moderate
+2,24,34,6.472774648,50.0,"N deficient, P deficient, K deficient",Moderate
+39,37,25,6.953246506,50.0,"N deficient, P deficient, K deficient",Moderate
+15,36,27,5.6437102160000014,50.0,"N deficient, P deficient, K deficient",Moderate
+3,18,31,6.392313972999999,40.0,"N deficient, P deficient, K deficient",Poor
+8,38,32,4.981816523,50.0,"N deficient, P deficient, K deficient, ph deficient",Moderate
+33,31,34,5.421265282999999,40.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+14,29,32,6.942520105,50.0,"N deficient, P deficient, K deficient",Moderate
+18,20,26,5.435840509,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+9,21,32,5.870116071,50.0,"N deficient, P deficient, K deficient",Moderate
+20,30,27,4.74910393,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+9,38,25,5.497946899,40.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+26,24,34,6.811291098,50.0,"N deficient, P deficient, K deficient",Moderate
+31,36,29,6.460542749,50.0,"N deficient, P deficient, K deficient",Moderate
+14,18,35,4.791146778,40.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+40,16,35,6.4841522000000005,60.0,"N deficient, P deficient, K deficient",Moderate
+28,27,34,6.526654345,50.0,"N deficient, P deficient, K deficient",Moderate
+0,17,30,6.279133738,40.0,"N deficient, P deficient, K deficient",Poor
+1,29,29,6.052026047000001,40.0,"N deficient, P deficient, K deficient",Poor
+2,36,31,5.73171945,50.0,"N deficient, P deficient, K deficient",Moderate
+12,27,26,5.32307197,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+7,28,35,4.66910839,40.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+0,36,26,5.101206389,40.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+26,35,31,5.339556562,40.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+27,21,30,5.061081874,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+22,38,31,5.8211060360000015,50.0,"N deficient, P deficient, K deficient",Moderate
+22,18,31,5.956027059,40.0,"N deficient, P deficient, K deficient",Poor
+28,23,28,5.676032581,40.0,"N deficient, P deficient, K deficient",Poor
+7,31,27,6.524114355,40.0,"N deficient, P deficient, K deficient",Poor
+29,34,26,6.2739536760000005,50.0,"N deficient, P deficient, K deficient",Moderate
+8,37,33,6.128167757000001,60.0,"N deficient, P deficient, K deficient",Moderate
+39,16,27,4.934964765,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+40,24,25,5.445008416,40.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+19,38,26,4.525722333,40.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+21,21,30,5.403908327999999,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+22,18,33,6.621623545,50.0,"N deficient, P deficient, K deficient",Moderate
+31,20,30,6.207495815,40.0,"N deficient, P deficient, K deficient",Poor
+18,26,31,5.418475257000001,30.0,"N deficient, P deficient, K deficient, ph deficient",Poor
+24,130,195,6.112305667,40.0,"N deficient, P excess, K excess",Poor
+13,144,204,6.092241627000001,40.0,"N deficient, P excess, K excess",Poor
+22,123,205,5.896343436,40.0,"N deficient, P excess, K excess",Poor
+36,125,196,6.15526103,40.0,"N deficient, P excess, K excess",Poor
+24,131,196,5.732453638,40.0,"N deficient, P excess, K excess",Poor
+2,123,198,6.253034534,40.0,"N deficient, P excess, K excess",Poor
+35,140,197,6.106190557000001,40.0,"N deficient, P excess, K excess",Poor
+11,122,195,5.647202395,40.0,"N deficient, P excess, K excess",Poor
+6,123,203,6.130310493,40.0,"N deficient, P excess, K excess",Poor
+17,134,204,6.499604931,40.0,"N deficient, P excess, K excess",Poor
+25,130,197,5.554831977,40.0,"N deficient, P excess, K excess",Poor
+27,145,205,5.800242694,40.0,"N deficient, P excess, K excess",Poor
+9,122,201,5.570290539,40.0,"N deficient, P excess, K excess",Poor
+16,139,203,6.27564088,40.0,"N deficient, P excess, K excess",Poor
+32,141,204,5.536645599,40.0,"N deficient, P excess, K excess",Poor
+22,138,195,6.208196881,40.0,"N deficient, P excess, K excess",Poor
+31,144,202,5.870600622,40.0,"N deficient, P excess, K excess",Poor
+3,136,205,6.334771461,40.0,"N deficient, P excess, K excess",Poor
+28,122,197,5.856575335,40.0,"N deficient, P excess, K excess",Poor
+4,136,204,5.898944282,40.0,"N deficient, P excess, K excess",Poor
+39,145,201,5.775600435,40.0,"N deficient, P excess, K excess",Poor
+38,132,197,5.931101816,40.0,"N deficient, P excess, K excess",Poor
+36,133,198,6.2286454,40.0,"N deficient, P excess, K excess",Poor
+25,121,201,5.594240602999999,40.0,"N deficient, P excess, K excess",Poor
+15,125,199,5.569230319,40.0,"N deficient, P excess, K excess",Poor
+24,140,205,5.93202852,40.0,"N deficient, P excess, K excess",Poor
+13,132,203,6.423216506,40.0,"N deficient, P excess, K excess",Poor
+5,126,197,6.417500829,40.0,"N deficient, P excess, K excess",Poor
+30,120,200,6.234904253,40.0,"N deficient, P excess, K excess",Poor
+23,142,197,6.000573725,40.0,"N deficient, P excess, K excess",Poor
+26,135,203,5.6851027689999984,40.0,"N deficient, P excess, K excess",Poor
+7,126,203,5.662140095,40.0,"N deficient, P excess, K excess",Poor
+32,139,198,6.358186848,40.0,"N deficient, P excess, K excess",Poor
+9,141,202,6.119495295,40.0,"N deficient, P excess, K excess",Poor
+20,142,196,6.207600782999999,40.0,"N deficient, P excess, K excess",Poor
+32,129,201,6.48754639,40.0,"N deficient, P excess, K excess",Poor
+3,134,199,5.81717753,40.0,"N deficient, P excess, K excess",Poor
+38,138,204,6.325480034,40.0,"N deficient, P excess, K excess",Poor
+14,131,198,5.562790949,40.0,"N deficient, P excess, K excess",Poor
+20,122,204,6.487369687,40.0,"N deficient, P excess, K excess",Poor
+40,126,201,6.116982944,50.0,"N deficient, P excess, K excess",Moderate
+36,128,204,5.695792761,40.0,"N deficient, P excess, K excess",Poor
+11,132,197,5.7343170070000005,40.0,"N deficient, P excess, K excess",Poor
+0,137,195,6.329499832000001,40.0,"N deficient, P excess, K excess",Poor
+19,123,200,6.167013532,40.0,"N deficient, P excess, K excess",Poor
+31,136,197,5.653776057999999,40.0,"N deficient, P excess, K excess",Poor
+4,134,200,5.840256272,40.0,"N deficient, P excess, K excess",Poor
+39,139,201,5.5399808120000005,40.0,"N deficient, P excess, K excess",Poor
+8,127,196,5.833302165,40.0,"N deficient, P excess, K excess",Poor
+39,138,203,6.399433771,40.0,"N deficient, P excess, K excess",Poor
+32,120,204,6.138958698,40.0,"N deficient, P excess, K excess",Poor
+12,142,203,5.972850837999999,40.0,"N deficient, P excess, K excess",Poor
+8,133,195,6.456079585,40.0,"N deficient, P excess, K excess",Poor
+8,139,199,6.3364266670000005,40.0,"N deficient, P excess, K excess",Poor
+21,134,202,6.425419926,40.0,"N deficient, P excess, K excess",Poor
+40,140,195,6.2943956760000015,50.0,"N deficient, P excess, K excess",Moderate
+39,127,202,6.477768039,40.0,"N deficient, P excess, K excess",Poor
+19,120,195,5.931538447,40.0,"N deficient, P excess, K excess",Poor
+21,139,201,5.980598579,40.0,"N deficient, P excess, K excess",Poor
+17,136,195,6.389783283,40.0,"N deficient, P excess, K excess",Poor
+33,139,203,5.693287415,40.0,"N deficient, P excess, K excess",Poor
+22,133,201,6.00299607,40.0,"N deficient, P excess, K excess",Poor
+32,130,196,6.372959542,40.0,"N deficient, P excess, K excess",Poor
+37,135,205,5.510924848999999,40.0,"N deficient, P excess, K excess",Poor
+15,140,195,5.69945282,40.0,"N deficient, P excess, K excess",Poor
+39,132,196,5.778594403,40.0,"N deficient, P excess, K excess",Poor
+40,121,199,6.315586313,50.0,"N deficient, P excess, K excess",Moderate
+40,132,202,5.9718130060000005,50.0,"N deficient, P excess, K excess",Moderate
+29,142,203,5.891195653,40.0,"N deficient, P excess, K excess",Poor
+32,121,199,6.129812716,40.0,"N deficient, P excess, K excess",Poor
+6,140,205,6.313085601,40.0,"N deficient, P excess, K excess",Poor
+8,120,196,6.053662544,40.0,"N deficient, P excess, K excess",Poor
+34,133,202,5.804799142,40.0,"N deficient, P excess, K excess",Poor
+35,135,199,6.400719746,40.0,"N deficient, P excess, K excess",Poor
+16,145,199,5.953966361,40.0,"N deficient, P excess, K excess",Poor
+8,136,201,5.6092559920000005,40.0,"N deficient, P excess, K excess",Poor
+25,129,195,5.777271492000001,40.0,"N deficient, P excess, K excess",Poor
+16,130,201,5.682395429,40.0,"N deficient, P excess, K excess",Poor
+39,129,203,5.863996687,40.0,"N deficient, P excess, K excess",Poor
+38,135,203,6.444373116,40.0,"N deficient, P excess, K excess",Poor
+33,120,205,5.550832177999999,40.0,"N deficient, P excess, K excess",Poor
+35,125,204,6.107741787999999,40.0,"N deficient, P excess, K excess",Poor
+1,132,200,5.620745638,40.0,"N deficient, P excess, K excess",Poor
+39,140,203,6.349875906,40.0,"N deficient, P excess, K excess",Poor
+28,145,202,6.484323189,40.0,"N deficient, P excess, K excess",Poor
+6,128,200,5.838748311,40.0,"N deficient, P excess, K excess",Poor
+6,139,199,6.29099842,40.0,"N deficient, P excess, K excess",Poor
+29,122,196,5.638328481,40.0,"N deficient, P excess, K excess",Poor
+37,144,197,6.415555956,40.0,"N deficient, P excess, K excess",Poor
+38,120,197,6.323722572,40.0,"N deficient, P excess, K excess",Poor
+38,141,198,5.757009965,40.0,"N deficient, P excess, K excess",Poor
+14,121,203,6.1586894060000015,40.0,"N deficient, P excess, K excess",Poor
+6,125,204,5.7335398070000005,40.0,"N deficient, P excess, K excess",Poor
+32,138,197,5.908724337000001,40.0,"N deficient, P excess, K excess",Poor
+11,124,204,6.361141107000001,40.0,"N deficient, P excess, K excess",Poor
+23,138,200,5.96537863,40.0,"N deficient, P excess, K excess",Poor
+40,143,201,6.476757723,50.0,"N deficient, P excess, K excess",Moderate
+6,142,202,6.224542938,40.0,"N deficient, P excess, K excess",Poor
+37,124,195,6.209928251,40.0,"N deficient, P excess, K excess",Poor
+35,134,204,5.841138354,40.0,"N deficient, P excess, K excess",Poor
+119,25,51,6.283818329,80.0,P deficient,Healthy
+119,19,55,6.818261382999999,80.0,P deficient,Healthy
+105,30,50,6.37620108,80.0,P deficient,Healthy
+114,8,50,6.581587932000001,80.0,P deficient,Healthy
+93,22,52,6.932739726,80.0,P deficient,Healthy
+80,26,55,6.140099215,80.0,P deficient,Healthy
+85,27,45,6.467095849,80.0,P deficient,Healthy
+85,22,53,6.849471704,80.0,P deficient,Healthy
+82,22,45,6.512196212,80.0,P deficient,Healthy
+118,13,54,6.039584629,80.0,P deficient,Healthy
+83,25,53,6.057697106,80.0,P deficient,Healthy
+86,15,47,6.423898762,80.0,P deficient,Healthy
+101,10,47,6.936997681,80.0,P deficient,Healthy
+119,9,50,6.251286661,80.0,P deficient,Healthy
+104,17,46,6.190015912000001,80.0,P deficient,Healthy
+95,12,51,6.681606702000001,80.0,P deficient,Healthy
+102,14,52,6.51075991,80.0,P deficient,Healthy
+109,21,55,6.770278088,80.0,P deficient,Healthy
+81,18,50,6.429788072999999,80.0,P deficient,Healthy
+103,17,51,6.209888345,80.0,P deficient,Healthy
+105,14,50,6.419052193,80.0,P deficient,Healthy
+97,8,52,6.237861736,80.0,P deficient,Healthy
+120,19,49,6.762471628999998,80.0,P deficient,Healthy
+95,16,55,6.612847999,80.0,P deficient,Healthy
+83,29,52,6.704688865,80.0,P deficient,Healthy
+83,9,45,6.049609892,80.0,P deficient,Healthy
+91,21,50,6.762030215,80.0,P deficient,Healthy
+116,5,54,6.65398725,80.0,P deficient,Healthy
+112,28,54,6.738030547,80.0,P deficient,Healthy
+88,29,51,6.095689937,80.0,P deficient,Healthy
+118,15,45,6.538006356,80.0,P deficient,Healthy
+92,21,48,6.377427122,80.0,P deficient,Healthy
+106,14,45,6.417011754,80.0,P deficient,Healthy
+99,5,47,6.649086972,80.0,P deficient,Healthy
+98,8,51,6.25933595,80.0,P deficient,Healthy
+108,22,46,6.121168559,80.0,P deficient,Healthy
+119,7,55,6.031424482,80.0,P deficient,Healthy
+117,27,48,6.835268183999999,80.0,P deficient,Healthy
+109,10,53,6.5517503060000015,80.0,P deficient,Healthy
+80,16,46,6.940236218,80.0,P deficient,Healthy
+100,18,52,6.87606733,80.0,P deficient,Healthy
+91,7,53,6.457216535,80.0,P deficient,Healthy
+86,6,53,6.921847887999999,80.0,P deficient,Healthy
+107,5,52,6.8814257460000015,80.0,P deficient,Healthy
+103,16,49,6.915717008,80.0,P deficient,Healthy
+101,20,48,6.206247493999999,80.0,P deficient,Healthy
+85,25,47,6.29542477,80.0,P deficient,Healthy
+84,7,51,6.399669044,80.0,P deficient,Healthy
+102,28,54,6.862157042000001,80.0,P deficient,Healthy
+98,25,52,6.224066378,80.0,P deficient,Healthy
+97,25,50,6.093814669,80.0,P deficient,Healthy
+90,16,45,6.291540277999999,80.0,P deficient,Healthy
+95,12,46,6.32281728,80.0,P deficient,Healthy
+82,23,49,6.873283991,80.0,P deficient,Healthy
+82,25,51,6.074209622000001,80.0,P deficient,Healthy
+110,28,46,6.49889585,80.0,P deficient,Healthy
+118,21,51,6.678805092,80.0,P deficient,Healthy
+120,20,45,6.114128685,80.0,P deficient,Healthy
+91,7,52,6.405054243,80.0,P deficient,Healthy
+81,6,55,6.110142735,80.0,P deficient,Healthy
+101,13,54,6.828982708,80.0,P deficient,Healthy
+101,17,55,6.451499763999999,80.0,P deficient,Healthy
+111,6,53,6.313512998999999,80.0,P deficient,Healthy
+107,10,49,6.755192025,80.0,P deficient,Healthy
+115,11,46,6.623167177000001,80.0,P deficient,Healthy
+84,25,52,6.12532356,80.0,P deficient,Healthy
+120,7,47,6.653867608,80.0,P deficient,Healthy
+91,12,46,6.343942518,80.0,P deficient,Healthy
+89,22,52,6.217300786,80.0,P deficient,Healthy
+113,19,46,6.286387658,80.0,P deficient,Healthy
+97,22,50,6.769893799999998,80.0,P deficient,Healthy
+117,30,50,6.744966312000001,80.0,P deficient,Healthy
+90,14,52,6.391858432,80.0,P deficient,Healthy
+104,23,47,6.770434148,80.0,P deficient,Healthy
+81,16,45,6.727468157000001,80.0,P deficient,Healthy
+88,5,47,6.662244646,80.0,P deficient,Healthy
+92,7,45,6.944640222,80.0,P deficient,Healthy
+81,18,50,6.507110986,80.0,P deficient,Healthy
+111,5,55,6.520663422,80.0,P deficient,Healthy
+108,23,51,6.106500787000001,80.0,P deficient,Healthy
+113,30,50,6.277484042999999,80.0,P deficient,Healthy
+83,10,53,6.195142279,80.0,P deficient,Healthy
+101,11,51,6.792035575,80.0,P deficient,Healthy
+114,21,55,6.472756256,80.0,P deficient,Healthy
+99,6,45,6.000975617000001,80.0,P deficient,Healthy
+92,20,55,6.5877912620000005,80.0,P deficient,Healthy
+92,7,48,6.956508826,80.0,P deficient,Healthy
+91,24,55,6.259086582999999,80.0,P deficient,Healthy
+110,21,54,6.747537642,80.0,P deficient,Healthy
+112,25,51,6.932537231,80.0,P deficient,Healthy
+89,25,54,6.353107392999999,80.0,P deficient,Healthy
+100,10,53,6.211748957,80.0,P deficient,Healthy
+83,22,54,6.277245253999999,80.0,P deficient,Healthy
+95,14,50,6.560443519,80.0,P deficient,Healthy
+119,30,49,6.903020221,80.0,P deficient,Healthy
+97,12,47,6.765094963999998,80.0,P deficient,Healthy
+110,7,45,6.189213927000001,80.0,P deficient,Healthy
+96,18,50,6.904241707000001,80.0,P deficient,Healthy
+83,23,55,6.463271076,80.0,P deficient,Healthy
+120,24,47,6.260838965,80.0,P deficient,Healthy
+115,17,55,6.776533055,80.0,P deficient,Healthy
+114,27,48,6.528404377999999,80.0,P deficient,Healthy
+101,25,52,6.750145572,80.0,P deficient,Healthy
+118,18,52,6.562832807,80.0,P deficient,Healthy
+95,26,45,6.117530021,80.0,P deficient,Healthy
+81,25,49,6.076459669,80.0,P deficient,Healthy
+117,24,53,6.293486295,80.0,P deficient,Healthy
+114,30,51,6.069171847000001,80.0,P deficient,Healthy
+113,6,52,6.740983646,80.0,P deficient,Healthy
+108,26,52,6.201797639,80.0,P deficient,Healthy
+81,30,48,6.041027474,80.0,P deficient,Healthy
+115,9,52,6.019372459,80.0,P deficient,Healthy
+83,7,45,6.704104127000001,80.0,P deficient,Healthy
+84,21,55,6.494251024,80.0,P deficient,Healthy
+109,26,45,6.224535448999998,80.0,P deficient,Healthy
+95,27,55,6.160414414,80.0,P deficient,Healthy
+119,5,55,6.168757984,80.0,P deficient,Healthy
+110,14,51,6.085444691,80.0,P deficient,Healthy
+82,18,48,6.1590508160000015,80.0,P deficient,Healthy
+87,14,48,6.606033244,80.0,P deficient,Healthy
+85,9,53,6.447662945,80.0,P deficient,Healthy
+100,6,53,6.105909623,80.0,P deficient,Healthy
+107,12,46,6.559763394,80.0,P deficient,Healthy
+91,13,47,6.14410903,80.0,P deficient,Healthy
+102,25,50,6.099662369,80.0,P deficient,Healthy
+117,25,53,6.413927319,80.0,P deficient,Healthy
+85,21,52,6.0751441160000015,80.0,P deficient,Healthy
+104,25,55,6.123802502,80.0,P deficient,Healthy
+102,24,54,6.698468621,80.0,P deficient,Healthy
+116,25,50,6.088885814,80.0,P deficient,Healthy
+100,17,48,6.367800632000001,80.0,P deficient,Healthy
+110,25,54,6.425930938,80.0,P deficient,Healthy
+104,25,51,6.469983276000002,80.0,P deficient,Healthy
+107,11,54,6.094016337999999,80.0,P deficient,Healthy
+98,26,52,6.150090898999999,80.0,P deficient,Healthy
+88,17,52,6.646962425,80.0,P deficient,Healthy
+87,25,46,6.379690748,80.0,P deficient,Healthy
+120,8,46,6.732834334,80.0,P deficient,Healthy
+95,13,46,6.126019932,80.0,P deficient,Healthy
+108,22,47,6.161123579,80.0,P deficient,Healthy
+82,13,52,6.442810053,80.0,P deficient,Healthy
+120,23,55,6.732049075,80.0,P deficient,Healthy
+110,22,47,6.243673725,80.0,P deficient,Healthy
+95,23,45,6.266208727,80.0,P deficient,Healthy
+106,10,49,6.350623739,80.0,P deficient,Healthy
+99,12,52,6.002927293,80.0,P deficient,Healthy
+106,20,51,6.342573112,80.0,P deficient,Healthy
+83,11,53,6.163921247999999,80.0,P deficient,Healthy
+117,19,55,6.121745389,80.0,P deficient,Healthy
+98,26,49,6.130160472999999,80.0,P deficient,Healthy
+113,20,48,6.440584681,80.0,P deficient,Healthy
+101,17,47,6.185053234,80.0,P deficient,Healthy
+98,7,45,6.157724816,80.0,P deficient,Healthy
+93,22,48,6.776987974,80.0,P deficient,Healthy
+95,21,47,6.431970877,80.0,P deficient,Healthy
+109,12,48,6.708743843,80.0,P deficient,Healthy
+118,12,47,6.010739645,80.0,P deficient,Healthy
+100,14,49,6.365956657999999,80.0,P deficient,Healthy
+89,9,47,6.6683827660000015,80.0,P deficient,Healthy
+95,16,46,6.74669542,80.0,P deficient,Healthy
+95,7,45,6.031665834,80.0,P deficient,Healthy
+87,6,45,6.40077205,80.0,P deficient,Healthy
+93,20,50,6.448792688999999,80.0,P deficient,Healthy
+84,29,49,6.251420275,80.0,P deficient,Healthy
+111,5,47,6.2744528110000015,80.0,P deficient,Healthy
+111,5,52,6.135996372,80.0,P deficient,Healthy
+111,15,54,6.194090172,80.0,P deficient,Healthy
+89,11,47,6.327822962000001,80.0,P deficient,Healthy
+110,15,48,6.2125672110000005,80.0,P deficient,Healthy
+95,30,52,6.640470862999999,80.0,P deficient,Healthy
+115,12,52,6.685553129,80.0,P deficient,Healthy
+120,25,50,6.327210469,80.0,P deficient,Healthy
+102,11,45,6.35544263,80.0,P deficient,Healthy
+94,5,55,6.085682343999999,80.0,P deficient,Healthy
+84,18,46,6.781050372999999,80.0,P deficient,Healthy
+107,22,54,6.630301421,80.0,P deficient,Healthy
+80,18,52,6.484799661,80.0,P deficient,Healthy
+86,18,45,6.566759102000001,80.0,P deficient,Healthy
+113,28,48,6.170520517999999,80.0,P deficient,Healthy
+115,18,53,6.0124803510000016,80.0,P deficient,Healthy
+82,20,54,6.541150335,80.0,P deficient,Healthy
+98,22,47,6.341400922,80.0,P deficient,Healthy
+117,25,54,6.150686363999999,80.0,P deficient,Healthy
+83,15,49,6.438008152999999,80.0,P deficient,Healthy
+120,16,51,6.547041902999999,80.0,P deficient,Healthy
+111,5,50,6.399891457000001,80.0,P deficient,Healthy
+85,21,47,6.186770318,80.0,P deficient,Healthy
+90,23,54,6.159020864,80.0,P deficient,Healthy
+99,29,55,6.660954816,80.0,P deficient,Healthy
+102,11,47,6.504906978999999,80.0,P deficient,Healthy
+80,18,51,6.706053225,80.0,P deficient,Healthy
+87,21,52,6.067665497999999,80.0,P deficient,Healthy
+114,8,52,6.419083092,80.0,P deficient,Healthy
+99,6,46,6.39637861,80.0,P deficient,Healthy
+89,25,50,6.375923383,80.0,P deficient,Healthy
+96,13,55,6.700337732,80.0,P deficient,Healthy
+82,26,47,6.565312652999999,80.0,P deficient,Healthy
+106,21,52,6.286515359,80.0,P deficient,Healthy
+90,15,52,6.448061578,80.0,P deficient,Healthy
+106,16,54,6.585872508,80.0,P deficient,Healthy
+24,128,196,5.521466996,40.0,"N deficient, P excess, K excess",Poor
+7,144,197,6.133220586,40.0,"N deficient, P excess, K excess",Poor
+14,128,205,6.226289556,40.0,"N deficient, P excess, K excess",Poor
+8,120,201,6.321152192,40.0,"N deficient, P excess, K excess",Poor
+20,129,201,5.587905967,40.0,"N deficient, P excess, K excess",Poor
+32,137,204,5.824151692999999,40.0,"N deficient, P excess, K excess",Poor
+27,139,205,5.7721799460000005,40.0,"N deficient, P excess, K excess",Poor
+0,123,205,5.790993052,40.0,"N deficient, P excess, K excess",Poor
+22,144,196,6.4992268210000015,40.0,"N deficient, P excess, K excess",Poor
+1,124,199,5.658473817000001,40.0,"N deficient, P excess, K excess",Poor
+30,122,197,5.573241391,40.0,"N deficient, P excess, K excess",Poor
+29,121,196,6.079497202000001,40.0,"N deficient, P excess, K excess",Poor
+13,126,204,6.3831802710000005,40.0,"N deficient, P excess, K excess",Poor
+9,139,199,5.867420996,40.0,"N deficient, P excess, K excess",Poor
+0,133,200,5.708418722,40.0,"N deficient, P excess, K excess",Poor
+30,143,199,5.7983508000000015,40.0,"N deficient, P excess, K excess",Poor
+36,140,198,6.28188384,40.0,"N deficient, P excess, K excess",Poor
+37,137,199,5.697945522,40.0,"N deficient, P excess, K excess",Poor
+33,121,203,5.6059340870000005,40.0,"N deficient, P excess, K excess",Poor
+7,144,195,5.85648105,40.0,"N deficient, P excess, K excess",Poor
+35,128,205,6.041053829,40.0,"N deficient, P excess, K excess",Poor
+29,128,198,5.685062404,40.0,"N deficient, P excess, K excess",Poor
+2,143,196,5.669489065,40.0,"N deficient, P excess, K excess",Poor
+34,140,198,5.751707342,40.0,"N deficient, P excess, K excess",Poor
+29,144,204,5.800448951,40.0,"N deficient, P excess, K excess",Poor
+32,141,203,5.821347769,40.0,"N deficient, P excess, K excess",Poor
+13,144,197,6.28022267,40.0,"N deficient, P excess, K excess",Poor
+25,143,198,6.027314401,40.0,"N deficient, P excess, K excess",Poor
+9,137,200,5.636687393,40.0,"N deficient, P excess, K excess",Poor
+6,144,198,5.559363609,40.0,"N deficient, P excess, K excess",Poor
+37,126,196,5.596449493,40.0,"N deficient, P excess, K excess",Poor
+2,120,203,5.893492998999999,40.0,"N deficient, P excess, K excess",Poor
+11,143,197,5.875718516,40.0,"N deficient, P excess, K excess",Poor
+10,141,201,6.386021424,40.0,"N deficient, P excess, K excess",Poor
+24,142,202,5.710819862,40.0,"N deficient, P excess, K excess",Poor
+23,138,195,5.7959857160000015,40.0,"N deficient, P excess, K excess",Poor
+18,125,204,6.046673619,40.0,"N deficient, P excess, K excess",Poor
+13,121,196,6.443382913,40.0,"N deficient, P excess, K excess",Poor
+26,122,202,5.617227184,40.0,"N deficient, P excess, K excess",Poor
+28,123,202,6.442289294,40.0,"N deficient, P excess, K excess",Poor
+26,121,201,6.162034371,40.0,"N deficient, P excess, K excess",Poor
+21,137,196,5.812781806,40.0,"N deficient, P excess, K excess",Poor
+21,135,198,5.7650151260000015,40.0,"N deficient, P excess, K excess",Poor
+5,144,205,6.184922574,40.0,"N deficient, P excess, K excess",Poor
+2,123,205,5.739652177000001,40.0,"N deficient, P excess, K excess",Poor
+15,133,199,5.8247786360000005,40.0,"N deficient, P excess, K excess",Poor
+31,130,198,5.554823557000001,40.0,"N deficient, P excess, K excess",Poor
+25,143,200,6.024248787,40.0,"N deficient, P excess, K excess",Poor
+16,143,204,5.631333387000001,40.0,"N deficient, P excess, K excess",Poor
+19,122,202,5.811975094,40.0,"N deficient, P excess, K excess",Poor
+10,125,196,5.730557448,40.0,"N deficient, P excess, K excess",Poor
+20,139,202,5.66999105,40.0,"N deficient, P excess, K excess",Poor
+28,123,198,5.682751473,40.0,"N deficient, P excess, K excess",Poor
+28,136,200,6.245858905,40.0,"N deficient, P excess, K excess",Poor
+2,131,199,6.017370134,40.0,"N deficient, P excess, K excess",Poor
+2,140,197,5.53456749,40.0,"N deficient, P excess, K excess",Poor
+27,138,201,5.952367662,40.0,"N deficient, P excess, K excess",Poor
+30,127,204,6.126436584,40.0,"N deficient, P excess, K excess",Poor
+32,145,203,6.406818518,40.0,"N deficient, P excess, K excess",Poor
+29,139,205,6.155939452999999,40.0,"N deficient, P excess, K excess",Poor
+26,126,195,5.878568981,40.0,"N deficient, P excess, K excess",Poor
+40,136,202,5.935336307999999,50.0,"N deficient, P excess, K excess",Moderate
+6,124,200,5.971332179,40.0,"N deficient, P excess, K excess",Poor
+35,138,200,5.67130617,40.0,"N deficient, P excess, K excess",Poor
+17,136,196,5.882155987999999,40.0,"N deficient, P excess, K excess",Poor
+33,134,205,6.08551916,40.0,"N deficient, P excess, K excess",Poor
+16,143,197,5.90402645,40.0,"N deficient, P excess, K excess",Poor
+27,120,200,6.1102188260000005,40.0,"N deficient, P excess, K excess",Poor
+29,145,205,6.212302608,40.0,"N deficient, P excess, K excess",Poor
+3,141,197,6.142803397000001,40.0,"N deficient, P excess, K excess",Poor
+15,123,204,6.365972687999999,40.0,"N deficient, P excess, K excess",Poor
+5,136,195,6.264202804,40.0,"N deficient, P excess, K excess",Poor
+10,136,204,6.276198595,40.0,"N deficient, P excess, K excess",Poor
+7,141,195,5.514253142,40.0,"N deficient, P excess, K excess",Poor
+2,129,201,5.682343744,40.0,"N deficient, P excess, K excess",Poor
+29,138,197,5.830892252000001,40.0,"N deficient, P excess, K excess",Poor
+30,137,200,5.603413172000001,40.0,"N deficient, P excess, K excess",Poor
+29,132,204,6.0967531,40.0,"N deficient, P excess, K excess",Poor
+14,139,197,6.056529526,40.0,"N deficient, P excess, K excess",Poor
+18,125,203,6.160267496,40.0,"N deficient, P excess, K excess",Poor
+33,143,204,5.814434775,40.0,"N deficient, P excess, K excess",Poor
+40,144,196,5.987262638,50.0,"N deficient, P excess, K excess",Moderate
+9,143,197,5.570020684,40.0,"N deficient, P excess, K excess",Poor
+38,135,203,5.9655513110000005,40.0,"N deficient, P excess, K excess",Poor
+28,130,196,6.062356467000001,40.0,"N deficient, P excess, K excess",Poor
+35,142,203,5.895319002000001,40.0,"N deficient, P excess, K excess",Poor
+12,129,205,6.119432215,40.0,"N deficient, P excess, K excess",Poor
+1,135,203,5.624203283,40.0,"N deficient, P excess, K excess",Poor
+0,145,205,5.52078314,40.0,"N deficient, P excess, K excess",Poor
+31,121,201,5.731535257999999,40.0,"N deficient, P excess, K excess",Poor
+35,131,203,5.893490899,40.0,"N deficient, P excess, K excess",Poor
+29,140,195,5.560521058,40.0,"N deficient, P excess, K excess",Poor
+33,138,198,6.222390797999999,40.0,"N deficient, P excess, K excess",Poor
+14,140,197,6.071255131,40.0,"N deficient, P excess, K excess",Poor
+35,145,195,6.231950009,40.0,"N deficient, P excess, K excess",Poor
+40,120,197,5.889480679,50.0,"N deficient, P excess, K excess",Moderate
+25,132,198,5.732757516,40.0,"N deficient, P excess, K excess",Poor
+31,137,196,6.400321212000001,40.0,"N deficient, P excess, K excess",Poor
+36,144,196,6.496934492,40.0,"N deficient, P excess, K excess",Poor
+10,140,197,6.229498836,40.0,"N deficient, P excess, K excess",Poor
+22,30,12,6.354006743999999,40.0,"N deficient, P deficient, K deficient",Poor
+37,6,13,7.511755067999999,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+27,13,6,7.335158382,40.0,"N deficient, P deficient, K deficient",Poor
+7,16,9,7.813916602999999,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+20,7,9,7.1291369410000005,40.0,"N deficient, P deficient, K deficient",Poor
+26,27,10,6.079998496,40.0,"N deficient, P deficient, K deficient",Poor
+5,23,15,7.408939392000001,40.0,"N deficient, P deficient, K deficient",Poor
+0,18,14,7.207991261,40.0,"N deficient, P deficient, K deficient",Poor
+39,24,14,7.189259647,40.0,"N deficient, P deficient, K deficient",Poor
+13,23,6,7.365338111,40.0,"N deficient, P deficient, K deficient",Poor
+21,17,15,7.455991072000001,40.0,"N deficient, P deficient, K deficient",Poor
+33,12,8,6.822282114,40.0,"N deficient, P deficient, K deficient",Poor
+6,9,12,7.028746406000002,40.0,"N deficient, P deficient, K deficient",Poor
+19,7,10,6.118430299,40.0,"N deficient, P deficient, K deficient",Poor
+24,18,6,6.285312759,40.0,"N deficient, P deficient, K deficient",Poor
+9,11,8,6.559236744,40.0,"N deficient, P deficient, K deficient",Poor
+31,8,7,7.163245982,40.0,"N deficient, P deficient, K deficient",Poor
+22,17,5,6.945562889,40.0,"N deficient, P deficient, K deficient",Poor
+13,5,8,7.474710503,40.0,"N deficient, P deficient, K deficient",Poor
+16,8,9,7.601189842999999,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+4,13,6,7.5611432239999985,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+0,25,14,6.361671475,40.0,"N deficient, P deficient, K deficient",Poor
+8,7,10,6.929216014,40.0,"N deficient, P deficient, K deficient",Poor
+4,23,5,7.477935216,40.0,"N deficient, P deficient, K deficient",Poor
+33,14,8,7.684420446,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+30,7,15,7.825531916,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+21,29,12,6.438668989,40.0,"N deficient, P deficient, K deficient",Poor
+11,14,5,6.946354724,40.0,"N deficient, P deficient, K deficient",Poor
+9,8,15,7.994465371,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+5,18,14,7.434118807000001,40.0,"N deficient, P deficient, K deficient",Poor
+29,25,14,7.781988584,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+33,12,15,6.052318465,40.0,"N deficient, P deficient, K deficient",Poor
+8,16,6,7.106650373,40.0,"N deficient, P deficient, K deficient",Poor
+15,14,8,6.22094286,40.0,"N deficient, P deficient, K deficient",Poor
+16,7,8,6.420457311,40.0,"N deficient, P deficient, K deficient",Poor
+0,12,7,6.969249676,40.0,"N deficient, P deficient, K deficient",Poor
+5,25,6,6.0113021810000005,40.0,"N deficient, P deficient, K deficient",Poor
+6,8,11,6.600948787999999,40.0,"N deficient, P deficient, K deficient",Poor
+10,5,5,7.817846496,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+1,17,6,6.8198271,40.0,"N deficient, P deficient, K deficient",Poor
+1,30,10,7.291405641,40.0,"N deficient, P deficient, K deficient",Poor
+0,23,15,7.598729065,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+24,27,9,6.157135092000001,40.0,"N deficient, P deficient, K deficient",Poor
+36,11,13,7.1917274,40.0,"N deficient, P deficient, K deficient",Poor
+40,21,8,7.418761774,50.0,"N deficient, P deficient, K deficient",Moderate
+40,22,6,6.488221135,50.0,"N deficient, P deficient, K deficient",Moderate
+32,18,13,6.044167236,40.0,"N deficient, P deficient, K deficient",Poor
+9,10,10,6.010391864,40.0,"N deficient, P deficient, K deficient",Poor
+13,16,8,6.949838549,40.0,"N deficient, P deficient, K deficient",Poor
+15,9,11,7.907956251,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+29,11,5,7.639788459,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+1,15,9,7.53350946,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+18,5,11,6.251586885,40.0,"N deficient, P deficient, K deficient",Poor
+14,22,9,6.543191814,40.0,"N deficient, P deficient, K deficient",Poor
+33,15,7,7.651225301,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+4,6,7,6.708889665,40.0,"N deficient, P deficient, K deficient",Poor
+17,16,14,6.625538653,40.0,"N deficient, P deficient, K deficient",Poor
+12,20,10,6.528354932,40.0,"N deficient, P deficient, K deficient",Poor
+34,29,8,6.450640306,40.0,"N deficient, P deficient, K deficient",Poor
+39,28,10,7.181907673,40.0,"N deficient, P deficient, K deficient",Poor
+31,25,12,7.016482298,40.0,"N deficient, P deficient, K deficient",Poor
+12,6,8,6.388617138,40.0,"N deficient, P deficient, K deficient",Poor
+12,29,13,7.57125447,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+26,11,11,7.609348255,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+19,24,15,7.137136973,40.0,"N deficient, P deficient, K deficient",Poor
+39,21,9,6.354022554,40.0,"N deficient, P deficient, K deficient",Poor
+16,29,13,6.196907944,40.0,"N deficient, P deficient, K deficient",Poor
+36,29,13,7.829507245,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+37,23,12,6.395258356,40.0,"N deficient, P deficient, K deficient",Poor
+39,9,15,7.992041984,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+31,5,14,6.583411671,40.0,"N deficient, P deficient, K deficient",Poor
+18,12,8,6.206053072,40.0,"N deficient, P deficient, K deficient",Poor
+20,20,10,6.976997772000001,40.0,"N deficient, P deficient, K deficient",Poor
+5,8,5,6.562594972,40.0,"N deficient, P deficient, K deficient",Poor
+20,8,12,7.260416405,40.0,"N deficient, P deficient, K deficient",Poor
+25,21,11,6.460044777999999,40.0,"N deficient, P deficient, K deficient",Poor
+14,19,14,6.699164936,40.0,"N deficient, P deficient, K deficient",Poor
+37,18,12,7.401121811,40.0,"N deficient, P deficient, K deficient",Poor
+26,15,6,6.912033409,40.0,"N deficient, P deficient, K deficient",Poor
+13,22,5,7.764040111,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+32,25,9,7.796034006,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+19,7,9,6.969883482999999,40.0,"N deficient, P deficient, K deficient",Poor
+28,7,9,6.730757538,40.0,"N deficient, P deficient, K deficient",Poor
+24,30,11,6.601395755,40.0,"N deficient, P deficient, K deficient",Poor
+7,17,10,6.465913274,40.0,"N deficient, P deficient, K deficient",Poor
+18,23,8,6.41354791,40.0,"N deficient, P deficient, K deficient",Poor
+7,20,12,6.475275337,40.0,"N deficient, P deficient, K deficient",Poor
+20,23,11,6.407715561,40.0,"N deficient, P deficient, K deficient",Poor
+18,14,11,6.550814117000001,40.0,"N deficient, P deficient, K deficient",Poor
+34,11,10,7.36220835,40.0,"N deficient, P deficient, K deficient",Poor
+20,29,10,7.36549204,40.0,"N deficient, P deficient, K deficient",Poor
+37,24,13,7.8546243,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+12,8,10,7.995848977,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+34,10,14,6.725600855,40.0,"N deficient, P deficient, K deficient",Poor
+6,13,9,7.786725333,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+27,30,5,7.656978112000001,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+13,8,12,7.105904818,40.0,"N deficient, P deficient, K deficient",Poor
+6,7,7,7.199106204,40.0,"N deficient, P deficient, K deficient",Poor
+40,17,15,7.871063004,40.0,"N deficient, P deficient, K deficient, ph excess",Poor
+31,26,9,7.566165721,30.0,"N deficient, P deficient, K deficient, ph excess",Poor
+61,68,50,6.7932454170000005,100.0,No major deficiency,Healthy
+58,46,45,6.576261427,100.0,No major deficiency,Healthy
+45,47,55,6.751452932,90.0,N deficient,Healthy
+39,65,53,6.560743092999999,80.0,N deficient,Healthy
+31,68,45,6.938313356,80.0,N deficient,Healthy
+70,68,45,6.991626158,100.0,No major deficiency,Healthy
+68,62,50,6.977700268,100.0,No major deficiency,Healthy
+34,65,47,6.833768535,80.0,N deficient,Healthy
+38,68,54,6.739170045,80.0,N deficient,Healthy
+69,64,47,6.993473247000001,100.0,No major deficiency,Healthy
+58,51,47,6.757470637000001,100.0,No major deficiency,Healthy
+59,47,53,6.8506632320000005,100.0,No major deficiency,Healthy
+44,64,54,6.74274935,90.0,N deficient,Healthy
+56,57,48,6.506120752,100.0,No major deficiency,Healthy
+69,60,54,6.98992719,100.0,No major deficiency,Healthy
+56,58,49,6.69215564,100.0,No major deficiency,Healthy
+49,55,53,6.544029776,90.0,N deficient,Healthy
+38,51,52,6.927803911,80.0,N deficient,Healthy
+54,65,47,6.721835879,100.0,No major deficiency,Healthy
+57,57,51,6.99223441,100.0,No major deficiency,Healthy
+39,52,53,6.704204398,80.0,N deficient,Healthy
+58,67,45,6.702424548,100.0,No major deficiency,Healthy
+61,64,52,6.641098708,100.0,No major deficiency,Healthy
+34,62,55,6.585346229,80.0,N deficient,Healthy
+31,48,45,6.563134737,80.0,N deficient,Healthy
+47,46,52,6.502289472999999,90.0,N deficient,Healthy
+32,68,52,6.800321319,80.0,N deficient,Healthy
+36,59,46,6.721130542999999,80.0,N deficient,Healthy
+61,51,51,6.574677594,100.0,No major deficiency,Healthy
+70,54,46,6.919342407,100.0,No major deficiency,Healthy
+44,56,49,6.519779582999999,90.0,N deficient,Healthy
+34,68,51,6.687088097999999,80.0,N deficient,Healthy
+50,59,47,6.747975732,100.0,No major deficiency,Healthy
+39,70,52,6.65149129,80.0,N deficient,Healthy
+34,61,49,6.502675132,80.0,N deficient,Healthy
+44,60,55,6.825371185,90.0,N deficient,Healthy
+31,62,52,6.99104104,80.0,N deficient,Healthy
+65,62,51,6.5116248410000015,100.0,No major deficiency,Healthy
+44,57,53,6.93172108,90.0,N deficient,Healthy
+50,47,48,6.712772332999999,100.0,No major deficiency,Healthy
+43,50,48,6.63016515,90.0,N deficient,Healthy
+60,46,53,6.761953186,100.0,No major deficiency,Healthy
+70,68,55,6.691202286,100.0,No major deficiency,Healthy
+59,62,52,6.608667683999999,100.0,No major deficiency,Healthy
+60,58,51,6.840802254,100.0,No major deficiency,Healthy
+42,60,47,6.834808347999999,90.0,N deficient,Healthy
+35,66,47,6.953439161,80.0,N deficient,Healthy
+34,65,48,6.665024507999999,80.0,N deficient,Healthy
+36,54,46,6.662875839,80.0,N deficient,Healthy
+39,64,52,6.678695788,80.0,N deficient,Healthy
+37,52,47,6.54277684,80.0,N deficient,Healthy
+33,47,46,6.839443833,80.0,N deficient,Healthy
+34,48,48,6.805277038,80.0,N deficient,Healthy
+49,54,50,6.762522087000001,90.0,N deficient,Healthy
+40,65,49,6.678449317999999,90.0,N deficient,Healthy
+68,52,49,6.577192175,100.0,No major deficiency,Healthy
+50,46,52,6.734005647999999,100.0,No major deficiency,Healthy
+65,63,50,6.524459342,100.0,No major deficiency,Healthy
+40,49,47,6.501521192,90.0,N deficient,Healthy
+42,53,48,6.758479569,90.0,N deficient,Healthy
+49,55,51,6.676578778,90.0,N deficient,Healthy
+59,62,49,6.941496806,100.0,No major deficiency,Healthy
+63,58,47,6.864143752,100.0,No major deficiency,Healthy
+70,65,52,6.583528529,100.0,No major deficiency,Healthy
+63,50,52,6.751747609,100.0,No major deficiency,Healthy
+40,64,47,6.893509446,90.0,N deficient,Healthy
+63,58,50,6.720744449,100.0,No major deficiency,Healthy
+45,58,49,6.827812549,90.0,N deficient,Healthy
+66,69,47,6.912299695,100.0,No major deficiency,Healthy
+54,67,52,6.586107335,100.0,No major deficiency,Healthy
+69,67,52,6.827305908,100.0,No major deficiency,Healthy
+67,68,49,6.821774589,100.0,No major deficiency,Healthy
+45,57,47,6.656458831,90.0,N deficient,Healthy
+56,50,52,6.770384816,100.0,No major deficiency,Healthy
+70,50,53,6.933809742999999,100.0,No major deficiency,Healthy
+44,47,45,6.579441304,90.0,N deficient,Healthy
+50,60,47,6.92791761,100.0,No major deficiency,Healthy
+52,51,53,6.985804083,100.0,No major deficiency,Healthy
+35,68,45,6.612429546,80.0,N deficient,Healthy
+68,69,52,6.813383387000001,100.0,No major deficiency,Healthy
+32,55,52,6.967759599999999,80.0,N deficient,Healthy
+32,55,51,6.57398033,80.0,N deficient,Healthy
+48,62,47,6.803094965,90.0,N deficient,Healthy
+39,69,53,6.964955435,80.0,N deficient,Healthy
+49,61,45,6.764213299,90.0,N deficient,Healthy
+48,57,54,6.617703177999999,90.0,N deficient,Healthy
+69,66,49,6.52711001,100.0,No major deficiency,Healthy
+53,55,55,6.709668804,100.0,No major deficiency,Healthy
+38,61,52,6.620729882000001,80.0,N deficient,Healthy
+57,64,55,6.583760498999999,100.0,No major deficiency,Healthy
+51,57,55,6.6764073370000006,100.0,No major deficiency,Healthy
+56,65,45,6.751298936,100.0,No major deficiency,Healthy
+54,66,52,6.867554147000001,100.0,No major deficiency,Healthy
+58,55,47,6.7424900270000006,100.0,No major deficiency,Healthy
+68,70,54,6.986228647000001,100.0,No major deficiency,Healthy
+42,59,55,6.979102243,90.0,N deficient,Healthy
+43,64,47,6.8256647820000005,90.0,N deficient,Healthy
+35,67,49,6.617066674,80.0,N deficient,Healthy
+56,59,55,6.551892637999999,100.0,No major deficiency,Healthy
+39,64,53,6.598860305,80.0,N deficient,Healthy
+18,30,29,6.4200187170000005,40.0,"N deficient, P deficient, K deficient",Poor
+37,23,28,5.7400545670000005,40.0,"N deficient, P deficient, K deficient",Poor
+13,28,33,5.686972967000001,50.0,"N deficient, P deficient, K deficient",Moderate
+2,21,35,6.293662362999999,50.0,"N deficient, P deficient, K deficient",Moderate
+10,18,35,6.381975465,50.0,"N deficient, P deficient, K deficient",Moderate
+7,11,32,5.542169138999999,50.0,"N deficient, P deficient, K deficient",Moderate
+39,5,31,5.551963184,40.0,"N deficient, P deficient, K deficient",Poor
+34,6,27,5.8607404810000014,40.0,"N deficient, P deficient, K deficient",Poor
+31,30,29,5.558807063,40.0,"N deficient, P deficient, K deficient",Poor
+25,7,35,5.55771171,50.0,"N deficient, P deficient, K deficient",Moderate
+16,18,26,5.568365926,40.0,"N deficient, P deficient, K deficient",Poor
+26,10,33,6.07071786,50.0,"N deficient, P deficient, K deficient",Moderate
+27,8,32,5.627860548999998,50.0,"N deficient, P deficient, K deficient",Moderate
+37,18,30,6.38488418,40.0,"N deficient, P deficient, K deficient",Poor
+19,15,34,5.6858890660000005,50.0,"N deficient, P deficient, K deficient",Moderate
+0,19,33,6.234458417000001,50.0,"N deficient, P deficient, K deficient",Moderate
+31,20,26,6.443168642000001,40.0,"N deficient, P deficient, K deficient",Poor
+9,17,32,5.842317989,50.0,"N deficient, P deficient, K deficient",Moderate
+22,11,29,5.955742971,40.0,"N deficient, P deficient, K deficient",Poor
+31,6,26,5.741367375,40.0,"N deficient, P deficient, K deficient",Poor
+34,6,30,5.948342571,40.0,"N deficient, P deficient, K deficient",Poor
+24,6,32,6.387067562,50.0,"N deficient, P deficient, K deficient",Moderate
+1,8,26,5.562911913,40.0,"N deficient, P deficient, K deficient",Poor
+31,13,33,5.85971872,50.0,"N deficient, P deficient, K deficient",Moderate
+10,9,28,6.282955072999999,40.0,"N deficient, P deficient, K deficient",Poor
+36,27,26,6.25449571,40.0,"N deficient, P deficient, K deficient",Poor
+38,24,33,5.973853124,50.0,"N deficient, P deficient, K deficient",Moderate
+11,6,25,6.081568052000001,40.0,"N deficient, P deficient, K deficient",Poor
+16,14,30,6.37466756,40.0,"N deficient, P deficient, K deficient",Poor
+33,14,35,6.027707171,50.0,"N deficient, P deficient, K deficient",Moderate
+16,6,29,5.868285082000001,40.0,"N deficient, P deficient, K deficient",Poor
+32,11,31,6.205931637999999,40.0,"N deficient, P deficient, K deficient",Poor
+38,14,30,5.5707453860000005,40.0,"N deficient, P deficient, K deficient",Poor
+8,6,33,6.095261012999999,50.0,"N deficient, P deficient, K deficient",Moderate
+23,6,33,6.025789594,50.0,"N deficient, P deficient, K deficient",Moderate
+29,25,35,5.542873799,50.0,"N deficient, P deficient, K deficient",Moderate
+24,14,33,6.366219551,50.0,"N deficient, P deficient, K deficient",Moderate
+32,12,30,5.579845008,40.0,"N deficient, P deficient, K deficient",Poor
+30,25,31,5.804965067,40.0,"N deficient, P deficient, K deficient",Poor
+14,21,35,6.121005506,50.0,"N deficient, P deficient, K deficient",Moderate
+27,22,29,6.000248647,40.0,"N deficient, P deficient, K deficient",Poor
+40,5,29,5.820978791,50.0,"N deficient, P deficient, K deficient",Moderate
+17,11,32,5.620733794,50.0,"N deficient, P deficient, K deficient",Moderate
+30,30,35,6.001936419,50.0,"N deficient, P deficient, K deficient",Moderate
+28,10,30,6.305740522000001,40.0,"N deficient, P deficient, K deficient",Poor
+39,7,29,6.362544111,40.0,"N deficient, P deficient, K deficient",Poor
+32,20,35,5.588655387,50.0,"N deficient, P deficient, K deficient",Moderate
+7,15,32,6.182232762000001,50.0,"N deficient, P deficient, K deficient",Moderate
+29,17,29,5.959493188,40.0,"N deficient, P deficient, K deficient",Poor
+34,15,34,5.677282677999999,50.0,"N deficient, P deficient, K deficient",Moderate
+14,23,25,5.6121227970000005,40.0,"N deficient, P deficient, K deficient",Poor
+18,19,29,6.206077742000001,40.0,"N deficient, P deficient, K deficient",Poor
+7,21,35,5.764812076,50.0,"N deficient, P deficient, K deficient",Moderate
+24,27,34,6.203376525,50.0,"N deficient, P deficient, K deficient",Moderate
+39,29,29,6.143662699,40.0,"N deficient, P deficient, K deficient",Poor
+29,8,28,6.100429497,40.0,"N deficient, P deficient, K deficient",Poor
+10,24,27,5.7084096010000005,40.0,"N deficient, P deficient, K deficient",Poor
+0,29,32,5.868255858,50.0,"N deficient, P deficient, K deficient",Moderate
+32,11,31,6.461225827000001,40.0,"N deficient, P deficient, K deficient",Poor
+37,10,32,6.165084855,50.0,"N deficient, P deficient, K deficient",Moderate
+20,29,27,6.047044342,40.0,"N deficient, P deficient, K deficient",Poor
+31,29,35,6.137102505,50.0,"N deficient, P deficient, K deficient",Moderate
+17,30,27,5.894027065,40.0,"N deficient, P deficient, K deficient",Poor
+1,12,30,5.56222383,40.0,"N deficient, P deficient, K deficient",Poor
+6,13,29,5.832608027999999,40.0,"N deficient, P deficient, K deficient",Poor
+15,28,32,6.2185718739999984,50.0,"N deficient, P deficient, K deficient",Moderate
+27,24,29,6.142010637,40.0,"N deficient, P deficient, K deficient",Poor
+3,23,30,6.078807239,40.0,"N deficient, P deficient, K deficient",Poor
+8,26,26,5.702484758,40.0,"N deficient, P deficient, K deficient",Poor
+20,28,26,5.547594847,40.0,"N deficient, P deficient, K deficient",Poor
+26,18,27,5.836075368,40.0,"N deficient, P deficient, K deficient",Poor
+1,6,35,6.231662767,50.0,"N deficient, P deficient, K deficient",Moderate
+27,30,31,5.718120393,40.0,"N deficient, P deficient, K deficient",Poor
+23,7,34,5.852038202,50.0,"N deficient, P deficient, K deficient",Moderate
+0,26,31,5.547933273,40.0,"N deficient, P deficient, K deficient",Poor
+38,6,25,6.156259104,40.0,"N deficient, P deficient, K deficient",Poor
+25,12,26,6.436314406,40.0,"N deficient, P deficient, K deficient",Poor
+40,5,32,5.981169595,60.0,"N deficient, P deficient, K deficient",Moderate
+0,19,31,6.271952832999999,40.0,"N deficient, P deficient, K deficient",Poor
+26,9,32,6.470465614,50.0,"N deficient, P deficient, K deficient",Moderate
+35,30,34,6.141502001,50.0,"N deficient, P deficient, K deficient",Moderate
+19,30,30,5.826381164,40.0,"N deficient, P deficient, K deficient",Poor
+31,13,33,6.342463714,50.0,"N deficient, P deficient, K deficient",Moderate
+17,29,26,6.071897347,40.0,"N deficient, P deficient, K deficient",Poor
+2,30,30,6.331051715,40.0,"N deficient, P deficient, K deficient",Poor
+30,13,25,6.413184638,40.0,"N deficient, P deficient, K deficient",Poor
+8,15,33,5.50158009,50.0,"N deficient, P deficient, K deficient",Moderate
+18,12,35,6.338720873,50.0,"N deficient, P deficient, K deficient",Moderate
+8,28,30,6.015672239,40.0,"N deficient, P deficient, K deficient",Poor
+40,22,29,5.735364307,50.0,"N deficient, P deficient, K deficient",Moderate
+27,10,33,6.465906333,50.0,"N deficient, P deficient, K deficient",Moderate
+21,20,31,5.855457599,40.0,"N deficient, P deficient, K deficient",Poor
+3,9,35,6.318552972999999,50.0,"N deficient, P deficient, K deficient",Moderate
+22,16,27,6.006784979,40.0,"N deficient, P deficient, K deficient",Poor
+27,8,30,6.008386282999999,40.0,"N deficient, P deficient, K deficient",Poor
+22,8,33,5.665785202,50.0,"N deficient, P deficient, K deficient",Moderate
+28,27,32,5.764615485,50.0,"N deficient, P deficient, K deficient",Moderate
+23,21,26,5.901495543999999,40.0,"N deficient, P deficient, K deficient",Poor
+37,5,34,5.779032666,50.0,"N deficient, P deficient, K deficient",Moderate
+19,26,29,5.67154928,40.0,"N deficient, P deficient, K deficient",Poor
+133,47,24,7.231324765,70.0,"N excess, K deficient",Moderate
+136,36,20,6.925412377000001,60.0,"N excess, P deficient, K deficient",Moderate
+104,47,18,7.633437412,70.0,"K deficient, ph excess",Moderate
+133,47,23,6.827354668,70.0,"N excess, K deficient",Moderate
+126,38,23,6.176716425,60.0,"N excess, P deficient, K deficient",Moderate
+126,50,19,6.6287228360000015,70.0,"N excess, K deficient",Moderate
+113,41,20,7.256877571,80.0,K deficient,Healthy
+121,45,22,6.443785385,70.0,"N excess, K deficient",Moderate
+121,47,16,7.7232401510000015,60.0,"N excess, K deficient, ph excess",Moderate
+129,60,22,5.947448589,70.0,"N excess, K deficient",Moderate
+107,45,25,7.2277455160000015,80.0,K deficient,Healthy
+122,59,18,6.219469084,70.0,"N excess, K deficient",Moderate
+140,38,15,6.021439523,60.0,"N excess, P deficient, K deficient",Moderate
+102,49,21,6.253343655,80.0,K deficient,Healthy
+111,40,25,6.187455798999999,80.0,K deficient,Healthy
+131,35,18,7.0576933660000005,60.0,"N excess, P deficient, K deficient",Moderate
+135,43,16,6.720449769,70.0,"N excess, K deficient",Moderate
+100,46,18,6.4316895060000006,80.0,K deficient,Healthy
+123,39,24,7.453106264,60.0,"N excess, P deficient, K deficient",Moderate
+117,56,15,7.368258226,80.0,K deficient,Healthy
+121,36,24,7.352401887,60.0,"N excess, P deficient, K deficient",Moderate
+101,58,18,6.652143699,80.0,K deficient,Healthy
+107,42,24,6.144631795,80.0,K deficient,Healthy
+100,41,22,7.318802162000001,80.0,K deficient,Healthy
+125,39,21,7.954629324,50.0,"N excess, P deficient, K deficient, ph excess",Moderate
+105,60,23,6.207652157,80.0,K deficient,Healthy
+102,46,19,6.631005298,80.0,K deficient,Healthy
+131,49,22,7.306918817000001,70.0,"N excess, K deficient",Moderate
+139,35,15,5.898293044,60.0,"N excess, P deficient, K deficient",Moderate
+108,36,19,7.238566893,70.0,"P deficient, K deficient",Moderate
+118,45,23,7.977651226,70.0,"K deficient, ph excess",Moderate
+107,51,22,5.983075895,80.0,K deficient,Healthy
+125,60,17,6.785723961,70.0,"N excess, K deficient",Moderate
+113,37,20,7.393441155,70.0,"P deficient, K deficient",Moderate
+131,52,16,6.486068274,70.0,"N excess, K deficient",Moderate
+115,48,16,7.175934962,80.0,K deficient,Healthy
+113,38,25,7.388265887999999,70.0,"P deficient, K deficient",Moderate
+111,41,18,6.10539819,80.0,K deficient,Healthy
+111,53,19,6.419536555,80.0,K deficient,Healthy
+122,48,16,6.307585854,70.0,"N excess, K deficient",Moderate
+108,46,17,6.93221485,80.0,K deficient,Healthy
+132,41,22,7.810865753,60.0,"N excess, K deficient, ph excess",Moderate
+103,42,17,6.527541661,80.0,K deficient,Healthy
+133,50,25,7.569454601,60.0,"N excess, K deficient, ph excess",Moderate
+127,37,18,7.041065585,60.0,"N excess, P deficient, K deficient",Moderate
+110,39,25,7.208795456,70.0,"P deficient, K deficient",Moderate
+131,38,19,6.814341946,60.0,"N excess, P deficient, K deficient",Moderate
+108,38,24,7.442217061,70.0,"P deficient, K deficient",Moderate
+122,40,17,6.854558957,70.0,"N excess, K deficient",Moderate
+111,50,15,7.884550475,70.0,"K deficient, ph excess",Moderate
+140,40,17,6.006085786,70.0,"N excess, K deficient",Moderate
+100,40,20,7.432043735,80.0,K deficient,Healthy
+123,50,16,6.498052108,70.0,"N excess, K deficient",Moderate
+107,36,21,6.205263534,70.0,"P deficient, K deficient",Moderate
+118,50,19,6.360812227,80.0,K deficient,Healthy
+103,51,20,7.0466074339999984,80.0,K deficient,Healthy
+133,57,19,7.947011366,60.0,"N excess, K deficient, ph excess",Moderate
+129,47,20,6.281913857999999,70.0,"N excess, K deficient",Moderate
+116,52,19,6.114525877,80.0,K deficient,Healthy
+114,40,23,6.7539780610000015,80.0,K deficient,Healthy
+131,60,17,7.4250413160000015,70.0,"N excess, K deficient",Moderate
+107,43,18,6.745104394,80.0,K deficient,Healthy
+123,44,21,7.6411165689999985,60.0,"N excess, K deficient, ph excess",Moderate
+112,49,25,6.470135478,80.0,K deficient,Healthy
+119,44,15,7.091992365,80.0,K deficient,Healthy
+130,59,19,6.520403794,70.0,"N excess, K deficient",Moderate
+127,53,24,6.127939627999999,70.0,"N excess, K deficient",Moderate
+134,52,18,7.994679507000001,60.0,"N excess, K deficient, ph excess",Moderate
+109,36,18,7.524707577,60.0,"P deficient, K deficient, ph excess",Moderate
+100,48,17,7.827877817999999,70.0,"K deficient, ph excess",Moderate
+132,52,19,6.436691764,70.0,"N excess, K deficient",Moderate
+102,37,25,5.907930899,70.0,"P deficient, K deficient",Moderate
+111,39,22,6.135025006,70.0,"P deficient, K deficient",Moderate
+117,51,15,6.044556594,80.0,K deficient,Healthy
+136,36,24,7.59781958,50.0,"N excess, P deficient, K deficient, ph excess",Moderate
+134,56,18,6.691268104,70.0,"N excess, K deficient",Moderate
+112,54,15,6.1754923060000015,80.0,K deficient,Healthy
+105,56,15,7.272316208999999,80.0,K deficient,Healthy
+140,45,15,5.801047545,70.0,"N excess, K deficient",Moderate
+126,46,25,6.757457943,70.0,"N excess, K deficient",Moderate
+106,49,24,6.983395572999999,80.0,K deficient,Healthy
+121,53,19,7.976889497999999,60.0,"N excess, K deficient, ph excess",Moderate
+108,60,17,6.558902588,80.0,K deficient,Healthy
+116,56,17,7.979090365,70.0,"K deficient, ph excess",Moderate
+100,52,19,7.903528672999999,70.0,"K deficient, ph excess",Moderate
+129,43,16,6.73210948,70.0,"N excess, K deficient",Moderate
+118,44,23,6.6916904760000016,80.0,K deficient,Healthy
+117,43,25,7.839849298,70.0,"K deficient, ph excess",Moderate
+126,37,21,6.61448588,60.0,"N excess, P deficient, K deficient",Moderate
+120,48,16,7.456971816,80.0,K deficient,Healthy
+102,45,16,7.2942193,80.0,K deficient,Healthy
+131,56,20,7.762647875,60.0,"N excess, K deficient, ph excess",Moderate
+114,40,17,6.363406102000001,80.0,K deficient,Healthy
+101,37,18,7.63737841,60.0,"P deficient, K deficient, ph excess",Moderate
+106,46,20,6.2006719760000015,80.0,K deficient,Healthy
+113,38,20,6.364729934,70.0,"P deficient, K deficient",Moderate
+102,53,21,6.913678684,80.0,K deficient,Healthy
+110,39,18,7.766259768999999,60.0,"P deficient, K deficient, ph excess",Moderate
+107,58,15,7.55606399,70.0,"K deficient, ph excess",Moderate
+120,60,15,7.288377241,80.0,K deficient,Healthy
+89,47,38,6.002524871,90.0,K deficient,Healthy
+60,37,39,6.033485257000001,80.0,"P deficient, K deficient",Healthy
+63,41,45,7.121933578999999,100.0,No major deficiency,Healthy
+86,40,39,6.207459637,90.0,K deficient,Healthy
+96,41,40,6.090060478,100.0,No major deficiency,Healthy
+100,35,36,6.346715209,80.0,"P deficient, K deficient",Healthy
+63,37,43,6.661957897000001,90.0,P deficient,Healthy
+70,43,40,6.176860192,100.0,No major deficiency,Healthy
+67,55,44,7.251847296,100.0,No major deficiency,Healthy
+74,40,40,6.386259977999999,100.0,No major deficiency,Healthy
+89,53,44,7.319735475,100.0,No major deficiency,Healthy
+74,46,45,6.025028997000001,100.0,No major deficiency,Healthy
+89,41,38,6.344751947000001,90.0,K deficient,Healthy
+60,55,40,7.02777956,100.0,No major deficiency,Healthy
+67,43,38,7.299304715,90.0,K deficient,Healthy
+70,38,35,7.014063944,80.0,"P deficient, K deficient",Healthy
+74,49,38,7.4880144039999985,90.0,K deficient,Healthy
+90,40,39,6.626503893,90.0,K deficient,Healthy
+82,35,44,6.239011,90.0,P deficient,Healthy
+73,45,37,6.742688094,90.0,K deficient,Healthy
+85,53,38,6.588017308,90.0,K deficient,Healthy
+81,56,36,7.097586415,90.0,K deficient,Healthy
+84,55,38,6.956682742999999,90.0,K deficient,Healthy
+80,45,42,7.380396262,100.0,No major deficiency,Healthy
+76,54,45,6.176618831,100.0,No major deficiency,Healthy
+76,56,39,6.551130445,90.0,K deficient,Healthy
+81,40,45,6.427726565,100.0,No major deficiency,Healthy
+76,44,45,6.740947635,100.0,No major deficiency,Healthy
+69,47,40,6.130136384,100.0,No major deficiency,Healthy
+82,40,45,6.667633355,100.0,No major deficiency,Healthy
+69,57,35,6.1868143920000005,90.0,K deficient,Healthy
+81,36,38,6.334837865,80.0,"P deficient, K deficient",Healthy
+67,60,38,7.16214284,90.0,K deficient,Healthy
+72,51,40,7.422318499,100.0,No major deficiency,Healthy
+65,39,45,6.768001309,90.0,P deficient,Healthy
+78,50,43,6.348441469,100.0,No major deficiency,Healthy
+77,52,41,6.097294061,100.0,No major deficiency,Healthy
+89,52,42,6.14132902,100.0,No major deficiency,Healthy
+62,49,37,7.479248124,90.0,K deficient,Healthy
+90,48,45,6.509174788999999,100.0,No major deficiency,Healthy
+66,47,36,6.57256106,90.0,K deficient,Healthy
+80,52,39,7.165696848,90.0,K deficient,Healthy
+89,52,45,7.207457207999999,100.0,No major deficiency,Healthy
+77,51,44,7.124333547000001,100.0,No major deficiency,Healthy
+94,37,41,6.4635387070000005,90.0,P deficient,Healthy
+75,41,35,6.856833064,90.0,K deficient,Healthy
+60,55,36,7.132389299,90.0,K deficient,Healthy
+62,56,35,6.235357637999999,90.0,K deficient,Healthy
+84,40,42,6.704273839,100.0,No major deficiency,Healthy
+100,56,40,7.433313409,100.0,No major deficiency,Healthy
+75,56,44,6.109478059,100.0,No major deficiency,Healthy
+78,46,42,7.095413294,100.0,No major deficiency,Healthy
+82,48,36,6.352076782999999,90.0,K deficient,Healthy
+100,58,41,6.6587699910000016,100.0,No major deficiency,Healthy
+88,50,40,7.0518224720000005,100.0,No major deficiency,Healthy
+67,41,40,7.333143205,100.0,No major deficiency,Healthy
+72,42,43,6.352771037,100.0,No major deficiency,Healthy
+89,40,43,7.124050134,100.0,No major deficiency,Healthy
+89,57,43,6.998787171,100.0,No major deficiency,Healthy
+61,41,44,6.537914957999999,100.0,No major deficiency,Healthy
+79,45,43,7.171054239,100.0,No major deficiency,Healthy
+84,40,43,7.228268227999999,100.0,No major deficiency,Healthy
+98,43,35,7.319952206,90.0,K deficient,Healthy
+75,36,44,6.613341342999999,90.0,P deficient,Healthy
+89,58,35,6.096838784,90.0,K deficient,Healthy
+91,41,37,6.132570522999999,90.0,K deficient,Healthy
+77,48,36,7.36008498,90.0,K deficient,Healthy
+66,58,35,7.321619041,90.0,K deficient,Healthy
+62,59,41,7.175170657000001,100.0,No major deficiency,Healthy
+82,35,35,7.299076163,80.0,"P deficient, K deficient",Healthy
+61,41,35,6.842966478999998,90.0,K deficient,Healthy
+99,57,38,6.356295567999999,90.0,K deficient,Healthy
+70,42,43,6.508342839,100.0,No major deficiency,Healthy
+90,59,35,7.098227926,90.0,K deficient,Healthy
+73,43,42,6.310699968,100.0,No major deficiency,Healthy
+67,46,44,7.093328631,100.0,No major deficiency,Healthy
+84,37,42,6.691074249,90.0,P deficient,Healthy
+72,41,36,6.187746776,90.0,K deficient,Healthy
+71,56,37,6.491506245,90.0,K deficient,Healthy
+64,53,38,6.855362875,90.0,K deficient,Healthy
+65,54,39,7.124571593,90.0,K deficient,Healthy
+60,58,37,6.067302109,90.0,K deficient,Healthy
+86,39,43,6.432051512,90.0,P deficient,Healthy
+90,50,44,6.253408852000001,100.0,No major deficiency,Healthy
+91,38,36,7.287318722999999,80.0,"P deficient, K deficient",Healthy
+87,48,38,7.161865733,90.0,K deficient,Healthy
+72,41,36,6.065898282999999,90.0,K deficient,Healthy
+71,54,35,7.311077075,90.0,K deficient,Healthy
+82,46,41,6.581693772,100.0,No major deficiency,Healthy
+71,52,43,6.732826127,100.0,No major deficiency,Healthy
+80,43,43,6.014572075,100.0,No major deficiency,Healthy
+77,55,43,6.663559451,100.0,No major deficiency,Healthy
+95,57,41,6.434610995,100.0,No major deficiency,Healthy
+63,47,35,7.432768147000001,90.0,K deficient,Healthy
+93,43,38,6.987332927000001,90.0,K deficient,Healthy
+87,44,43,6.718725189,100.0,No major deficiency,Healthy
+88,52,39,6.880204617,90.0,K deficient,Healthy
+90,39,37,6.86106911,80.0,"P deficient, K deficient",Healthy
+90,39,43,6.7693455,90.0,P deficient,Healthy
+84,38,43,7.26158085,90.0,P deficient,Healthy
+91,21,26,7.261313694,60.0,"P deficient, K deficient",Moderate
+107,21,26,7.235070264,60.0,"P deficient, K deficient",Moderate
+83,38,35,7.18915558,80.0,"P deficient, K deficient",Healthy
+108,24,31,6.431899747999999,60.0,"P deficient, K deficient",Moderate
+116,28,34,6.42321105,70.0,"P deficient, K deficient",Moderate
+116,23,25,6.869720196,60.0,"P deficient, K deficient",Moderate
+109,31,27,6.973839707000001,60.0,"P deficient, K deficient",Moderate
+89,25,34,7.184801627000001,70.0,"P deficient, K deficient",Moderate
+118,18,32,6.351823783,70.0,"P deficient, K deficient",Moderate
+111,32,34,6.392048018,80.0,"P deficient, K deficient",Healthy
+84,36,28,6.119892347,70.0,"P deficient, K deficient",Moderate
+85,33,25,6.910823945,70.0,"P deficient, K deficient",Moderate
+99,15,27,6.501157208,60.0,"P deficient, K deficient",Moderate
+81,30,31,7.027585558999999,60.0,"P deficient, K deficient",Moderate
+95,39,29,7.13411409,70.0,"P deficient, K deficient",Moderate
+81,34,30,6.6477659970000005,70.0,"P deficient, K deficient",Moderate
+80,15,28,6.703270635,60.0,"P deficient, K deficient",Moderate
+104,20,26,7.493191968,60.0,"P deficient, K deficient",Moderate
+109,29,28,6.724688502999999,60.0,"P deficient, K deficient",Moderate
+100,32,26,6.043485685,70.0,"P deficient, K deficient",Moderate
+100,24,28,7.101661011,60.0,"P deficient, K deficient",Moderate
+83,21,28,7.466900682999999,60.0,"P deficient, K deficient",Moderate
+120,23,28,6.877799264,60.0,"P deficient, K deficient",Moderate
+104,26,30,6.410992833,60.0,"P deficient, K deficient",Moderate
+108,33,31,7.393825704,70.0,"P deficient, K deficient",Moderate
+91,25,26,7.482414225,60.0,"P deficient, K deficient",Moderate
+86,26,27,6.081172981,60.0,"P deficient, K deficient",Moderate
+98,18,27,6.516312148,60.0,"P deficient, K deficient",Moderate
+111,27,31,6.0433309510000015,60.0,"P deficient, K deficient",Moderate
+84,39,35,6.959404135,80.0,"P deficient, K deficient",Healthy
+98,27,27,7.238109556,60.0,"P deficient, K deficient",Moderate
+118,21,34,7.234258375,70.0,"P deficient, K deficient",Moderate
+103,27,31,6.691541233,60.0,"P deficient, K deficient",Moderate
+82,24,33,6.809593554,70.0,"P deficient, K deficient",Moderate
+86,31,35,6.485761419,70.0,"P deficient, K deficient",Moderate
+88,35,35,6.784460602,80.0,"P deficient, K deficient",Healthy
+84,27,29,7.167092586,60.0,"P deficient, K deficient",Moderate
+120,40,33,6.73410539,90.0,K deficient,Healthy
+106,40,30,6.779984384,80.0,K deficient,Healthy
+113,21,33,7.277422737999999,70.0,"P deficient, K deficient",Moderate
+117,34,25,7.21270048,70.0,"P deficient, K deficient",Moderate
+80,30,25,7.487266991,60.0,"P deficient, K deficient",Moderate
+88,21,27,7.231166546,60.0,"P deficient, K deficient",Moderate
+113,33,34,6.559817161000002,80.0,"P deficient, K deficient",Healthy
+87,23,28,6.979590627,60.0,"P deficient, K deficient",Moderate
+113,15,29,6.779230041,60.0,"P deficient, K deficient",Moderate
+98,29,30,6.217974349,60.0,"P deficient, K deficient",Moderate
+97,29,27,7.205078785,60.0,"P deficient, K deficient",Moderate
+85,35,32,6.854011265,80.0,"P deficient, K deficient",Healthy
+82,29,35,6.246872394,70.0,"P deficient, K deficient",Moderate
+103,33,25,6.911066044,70.0,"P deficient, K deficient",Moderate
+112,17,28,6.777417989,60.0,"P deficient, K deficient",Moderate
+99,19,33,6.273741983,70.0,"P deficient, K deficient",Moderate
+120,20,34,6.906124587000001,70.0,"P deficient, K deficient",Moderate
+114,27,28,7.162802357,60.0,"P deficient, K deficient",Moderate
+100,40,35,6.9557873510000015,90.0,K deficient,Healthy
+108,35,25,6.971963169,70.0,"P deficient, K deficient",Moderate
+115,31,30,6.840927967000001,60.0,"P deficient, K deficient",Moderate
+87,28,30,6.536676653,60.0,"P deficient, K deficient",Moderate
+82,24,26,6.089443602999999,60.0,"P deficient, K deficient",Moderate
+94,26,27,7.456460375,60.0,"P deficient, K deficient",Moderate
+87,28,35,6.759211911,70.0,"P deficient, K deficient",Moderate
+118,40,35,7.460174812000001,90.0,K deficient,Healthy
+87,38,29,6.652642579,70.0,"P deficient, K deficient",Moderate
+92,40,30,6.026287448,80.0,K deficient,Healthy
+97,22,26,6.074190142000001,60.0,"P deficient, K deficient",Moderate
+99,40,32,7.0455430560000005,90.0,K deficient,Healthy
+89,28,33,6.9932360010000005,70.0,"P deficient, K deficient",Moderate
+112,39,29,6.726528895,70.0,"P deficient, K deficient",Moderate
+111,28,26,6.937352845,60.0,"P deficient, K deficient",Moderate
+114,20,26,7.27905689,60.0,"P deficient, K deficient",Moderate
+117,26,30,7.079850922,60.0,"P deficient, K deficient",Moderate
+111,29,31,6.136286518,60.0,"P deficient, K deficient",Moderate
+119,30,28,6.5052036960000015,60.0,"P deficient, K deficient",Moderate
+116,40,33,7.042089492000001,90.0,K deficient,Healthy
+95,37,35,6.348337518999998,80.0,"P deficient, K deficient",Healthy
+86,40,33,7.432322234,90.0,K deficient,Healthy
+117,37,32,6.787658922,80.0,"P deficient, K deficient",Healthy
+105,18,35,6.743417121,70.0,"P deficient, K deficient",Moderate
+109,23,25,7.00733163,60.0,"P deficient, K deficient",Moderate
+80,18,31,7.303033217,60.0,"P deficient, K deficient",Moderate
+101,31,26,6.861235184,60.0,"P deficient, K deficient",Moderate
+103,33,33,7.131435858,80.0,"P deficient, K deficient",Healthy
+93,26,27,7.288211994,60.0,"P deficient, K deficient",Moderate
+104,35,28,6.983732393,70.0,"P deficient, K deficient",Moderate
+116,36,25,6.172090205,70.0,"P deficient, K deficient",Moderate
+107,38,29,6.35118177,70.0,"P deficient, K deficient",Moderate
+101,33,33,6.908671378999999,80.0,"P deficient, K deficient",Healthy
+107,31,31,6.766184468,60.0,"P deficient, K deficient",Moderate
+99,16,30,6.392791654,60.0,"P deficient, K deficient",Moderate
+103,40,30,6.3483162570000005,80.0,K deficient,Healthy
+118,31,34,6.123796057000001,70.0,"P deficient, K deficient",Moderate
+106,21,35,7.4285236339999985,70.0,"P deficient, K deficient",Moderate
+116,38,34,6.020947179,80.0,"P deficient, K deficient",Healthy
+97,35,26,6.334610249,70.0,"P deficient, K deficient",Moderate
+107,34,32,6.78006386,80.0,"P deficient, K deficient",Healthy
+99,15,27,6.086922359,60.0,"P deficient, K deficient",Moderate
+118,33,30,6.362607851,70.0,"P deficient, K deficient",Moderate
+117,32,34,6.758792552,80.0,"P deficient, K deficient",Healthy
+104,18,30,6.779832611000002,60.0,"P deficient, K deficient",Moderate
