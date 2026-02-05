@@ -15,7 +15,7 @@ if "page" not in st.session_state:
 
 # --- left menu visible ---
 with st.sidebar:
-    st.title("AgroXpert🌾")
+    st.title("ANNADATAAI🌾")
     st.write("Your AI-Powered Farming Assistant")
     pages = ["Home", "Crop Recommendation", "Fertilizer Recommendation", "Yield Prediction",
              "Disease Detection", "Irrigation Scheduler",
@@ -410,9 +410,9 @@ def page_home():
     )
 
 def page_about():
-    st.header("About AgroXpert")
+    st.header("About ANNADATAAI")
     st.markdown("""
-    **AgroXpert** is a smart farming platform built to guide farmers using simple,  
+    **ANNADATAAI** is a smart farming platform built to guide farmers using simple,  
     **AI-powered tools** that make agriculture easier, smarter, and more efficient.
     """)
     st.image(
@@ -421,21 +421,21 @@ def page_about():
         caption="Empowering farmers with AI-driven insights 🌾"
     )
     st.markdown("""
-        ### 🌾 What AgroXpert Does
-        AgroXpert helps farmers in every stage of farming:
+        ### 🌾 What ANNADATAAI Does
+        ANNADATAAI helps farmers in every stage of farming:
 
         - **Crop Recommendation** – get the best crop suggestion based on soil & weather  
         - **Fertilizer Recommendation** – know exactly what nutrients your soil needs  
-        - **Disease Detection** *(coming soon)* – upload leaf photos to find plant diseases  
-        - **Irrigation Scheduler** *(coming soon)* – tells when and how much to water  
+        - **Disease Detection** – upload leaf photos to find plant diseases  
+        - **Irrigation Scheduler** – tells when and how much to water  
         - **Pest & Disease Risk Alerts** *(coming soon)* – stay prepared for threats  
-        - **Soil Health Check** *(coming soon)* – quick evaluation of soil condition  
-        - **Yield Prediction** *(coming soon)* – early yield estimation for better planning  
+        - **Soil Health Check**  – quick evaluation of soil condition  
+        - **Yield Prediction** – early yield estimation for better planning  
 
         ---
 
         ### 🤖 Powered by AI, Designed for Farmers  
-        AgroXpert uses:
+        ANNADATAAI uses:
         - Machine Learning  
         - Weather + soil data  
         - Image analysis  
@@ -450,8 +450,6 @@ def page_about():
         and make farming more successful and sustainable.
 
         ---
-
-        *AgroXpert is part of the AnnadataAI initiative — advancing agriculture with technology.*
         """)
 
 
