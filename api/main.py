@@ -6,7 +6,6 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 from fastapi.encoders import jsonable_encoder
 
-# 🔹 NEW IMPORTS (SOIL HEALTH ONLY)
 import joblib
 import pandas as pd
 from pathlib import Path
@@ -57,7 +56,7 @@ except Exception:
     logger.warning("Could not import crop predictor", exc_info=True)
 
 # ============================================================
-# FERTILIZER PREDICTOR (UNCHANGED)
+# FERTILIZER PREDICTOR 
 # ============================================================
 try:
     from src.fertilizer_recom.predict import predict_from_dict
@@ -69,7 +68,7 @@ except Exception:
     logger.warning("Fertilizer predictor not available", exc_info=True)
 
 # ============================================================
-# YIELD MODEL (LAZY LOAD – UNCHANGED)
+# YIELD MODEL (LAZY LOAD)
 # ============================================================
 _yield_model = None
 _yield_available = False
@@ -97,7 +96,7 @@ def get_yield_model():
         raise RuntimeError("Yield model load failed") from e
 
 # ============================================================
-# IRRIGATION SCHEDULER (UNCHANGED)
+# IRRIGATION SCHEDULER
 # ============================================================
 try:
     from src.irrigation_scheduler.scheduler import irrigation_scheduler
@@ -109,7 +108,7 @@ except Exception:
     logger.warning("Irrigation scheduler not available", exc_info=True)
 
 # ============================================================
-# 🔹 SOIL HEALTH MODEL (NEW – ADD ONLY)
+# 🔹 SOIL HEALTH MODEL 
 # ============================================================
 try:
     SOIL_HEALTH_MODEL_PATH = (
@@ -207,7 +206,7 @@ def health():
     }
 
 # ============================================================
-# CROP PREDICTION (UNCHANGED)
+# CROP PREDICTION 
 # ============================================================
 @app.post("/predict/crop")
 def predict_crop(data: CropInput):
@@ -221,7 +220,7 @@ def predict_crop(data: CropInput):
         raise HTTPException(500, "Internal server error")
 
 # ============================================================
-# FERTILIZER PREDICTION (UNCHANGED)
+# FERTILIZER PREDICTION 
 # ============================================================
 @app.post("/predict/fertilizer")
 def predict_fertilizer(data: FertilizerInput):
@@ -238,7 +237,7 @@ def predict_fertilizer(data: FertilizerInput):
         raise HTTPException(500, "Internal server error")
 
 # ============================================================
-# YIELD PREDICTION (UNCHANGED)
+# YIELD PREDICTION
 # ============================================================
 @app.post("/predict/yield")
 def predict_yield(data: YieldInput):
@@ -253,7 +252,7 @@ def predict_yield(data: YieldInput):
         raise HTTPException(500, "Internal server error")
 
 # ============================================================
-# IRRIGATION SCHEDULER (UNCHANGED)
+# IRRIGATION SCHEDULER 
 # ============================================================
 @app.post("/predict/irrigation")
 def predict_irrigation(data: IrrigationInput):
@@ -292,7 +291,7 @@ def predict_irrigation(data: IrrigationInput):
         raise HTTPException(500, "Internal server error")
 
 # ============================================================
-# 🔹 SOIL HEALTH PREDICTION (NEW)
+# 🔹 SOIL HEALTH PREDICTION 
 # ============================================================
 @app.post("/predict/soil-health")
 def predict_soil_health(data: SoilHealthInput):
