@@ -43,7 +43,7 @@ def train_model():
     with open(CLASS_PATH, "w") as f:
         json.dump(train_gen.class_indices, f)
 
-    print("✅ Disease model and class labels saved")
+    print("✅ Disease model and class labels saver Successfully")
 
 if __name__ == "__main__":
     train_model()
