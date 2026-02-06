@@ -1,7 +1,7 @@
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from .config import MODEL_PATH, TEST_DIR, IMG_HEIGHT, IMG_WIDTH, BATCH_SIZE
-
+# updated
 def evaluate_model():
     model = load_model(MODEL_PATH)
 
