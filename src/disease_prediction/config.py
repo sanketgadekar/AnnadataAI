@@ -9,7 +9,7 @@ EPOCHS = 10
 # Project root
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
 
-# ===== DATASET PATHS (MATCH YOUR STRUCTURE EXACTLY) =====
+# ===== DATASET PATHS =====
 TRAIN_DIR = os.path.join(
     BASE_DIR,
     "data",

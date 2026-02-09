@@ -1,6 +1,7 @@
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from .config import IMG_HEIGHT, IMG_WIDTH, BATCH_SIZE, TRAIN_DIR, VAL_DIR
 
+
 def get_data_generators():
     train_datagen = ImageDataGenerator(
         rescale=1.0 / 255,

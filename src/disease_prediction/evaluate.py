@@ -2,6 +2,7 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from .config import MODEL_PATH, TEST_DIR, IMG_HEIGHT, IMG_WIDTH, BATCH_SIZE
 
+
 def evaluate_model():
     model = load_model(MODEL_PATH)
 
@@ -14,7 +15,8 @@ def evaluate_model():
     )
 
     loss, acc = model.evaluate(test_gen)
-    print(f"Test Accuracy: {acc:.4f}")
+    print(f"✅ Test Accuracy: {acc:.4f}")
+
 
 if __name__ == "__main__":
     evaluate_model()

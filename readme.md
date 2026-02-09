@@ -30,3 +30,9 @@ git push
 python src/disease_prediction/train.py
 python src/disease_prediction/evaluate.py
 python src/disease_prediction/predict.py
+
+
+python -m src.disease_prediction.train
+python -m src.disease_prediction.evaluate
+python -m src.disease_prediction.predict
+

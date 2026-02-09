@@ -7,6 +7,7 @@ from tensorflow.keras.optimizers import Adam
 from .preprocess import get_data_generators
 from .config import MODEL_PATH, CLASS_PATH, EPOCHS
 
+
 def train_model():
     train_gen, val_gen = get_data_generators()
     num_classes = train_gen.num_classes
@@ -37,13 +38,14 @@ def train_model():
         epochs=EPOCHS
     )
 
-    model.save(MODEL_PATH)
+    model.save(MODEL_PATH, include_optimizer=False)
 
     # Save class index mapping
     with open(CLASS_PATH, "w") as f:
         json.dump(train_gen.class_indices, f)
 
     print("✅ Disease model and class labels saved")
+
 
 if __name__ == "__main__":
     train_model()
