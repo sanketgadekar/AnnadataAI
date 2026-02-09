@@ -1,10 +1,10 @@
 
-✅ Run FastAPI server:
+ Run FastAPI server:
 
 uvicorn api.main:app --reload
 
 
-✅ Run Streamlit app:
+ Run Streamlit app:
 
 streamlit run app/streamlit_app.py
 
@@ -19,4 +19,3 @@ git push
 python -m src.disease_prediction.train
 python -m src.disease_prediction.evaluate
 python -m src.disease_prediction.predict
-

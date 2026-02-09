@@ -2,11 +2,19 @@ import json
 import numpy as np
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
+from tensorflow.keras.optimizers import Adam
 from .config import MODEL_PATH, CLASS_PATH, IMG_HEIGHT, IMG_WIDTH
 
 
 def predict_disease(image_path):
     model = load_model(MODEL_PATH)
+
+    # compile required (optimizer not saved)
+    model.compile(
+        optimizer=Adam(learning_rate=0.001),
+        loss="categorical_crossentropy",
+        metrics=["accuracy"]
+    )
 
     with open(CLASS_PATH, "r") as f:
         class_map = json.load(f)
@@ -28,6 +36,7 @@ def predict_disease(image_path):
 
 
 if __name__ == "__main__":
-    # ⚠️ CHANGE THIS PATH TO A REAL IMAGE
-    result = predict_disease("sample_leaf.jpg")
+    # ✅ USE A REAL IMAGE PATH
+    image_path = "data/disease/test/test/AppleScab1.JPG"
+    result = predict_disease(image_path)
     print(result)
