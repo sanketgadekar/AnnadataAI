@@ -1,13 +1,3 @@
-▶️ How to run everything
-# 1️⃣ Train
-python -m src.recommendation.train_model
-
-# 2️⃣ Evaluate
-python -m src.recommendation.evaluate_model
-
-# 3️⃣ Predict (single sample)
-python -m src.recommendation.predict
-
 
 ✅ Run FastAPI server:
 
@@ -19,17 +9,11 @@ uvicorn api.main:app --reload
 streamlit run app/streamlit_app.py
 
 
+git pull --rebase origin main
 git status
 git add .
 git commit -m "Describe your change"
 git push
-
-
-
-
-python src/disease_prediction/train.py
-python src/disease_prediction/evaluate.py
-python src/disease_prediction/predict.py
 
 
 python -m src.disease_prediction.train
